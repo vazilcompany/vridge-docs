@@ -1,7 +1,8 @@
 ## 브릿지(Vridge)란
 
 
-<img src='https://wiki.vazil.me/download/attachments/84116190/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001%20%281%29.png?version=2&modificationDate=1652690172077&api=v2'/>
+<img src='https://wiki.vazil.me/download/attachments/84116190/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001%20%281%29.png?version=2&modificationDate=1652690172077&api=v2'>
+</img>
 
 브릿지(Vridge)는 다양한 산업과 서비스를 인공지능과 연결시키는 다리(Bridge)로서 (주)바질컴퍼니(Vazil Company)에서 클라우드 서비스로 제공하는 '통합 인공지능 개발 플랫폼' 입니다. 다양한 조직과 불특정 다수의 사용자들이 브릿지 플랫폼을 통해 클라우드를 통해 간편하고 쉽게 목적에 맞는 고유의 인공지능을 개발할 수 있는 인프라를 제공합니다.
 
