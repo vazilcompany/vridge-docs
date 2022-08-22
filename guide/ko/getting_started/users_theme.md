@@ -4,13 +4,13 @@
 
 우측 상단 헤더의 프로필 버튼을 클릭합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_01.png)  
 
   
 
 언어 메뉴를 열어 원하는 언어(한국어/영어)를 선택하면 브라우저의 언어 설정이 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_02.png)  
 
   
 
@@ -22,16 +22,16 @@
 
 프로필 메뉴를 활성화하여 테마 메뉴에서 원하는 테마를 선택하면 브라우저의 테마가 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_03.png)  
 
   
 
 (어두운 테마) 조직 대시보드
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_04.png)  
 
   
 
 (밝은 테마) 조직 대시보드
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_05.png)  
