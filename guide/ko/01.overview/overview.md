@@ -1,5 +1,5 @@
 ## 브릿지(Vridge)란
-<hr/>
+---
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/overview_01.png)
@@ -15,7 +15,7 @@
 
 
 ## 서비스 아키텍처
-<hr/>
+---
 
 ![img2](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/overview_02.png)
 
@@ -27,7 +27,7 @@
 
 
 ## 시작하기
-<hr/>
+---
 
 
 Vridge는 산업용 로봇, 서비스 로봇, 기타 커스텀 AI 서비스 등 다양한 산업에 있는 인공지능을 한번 배포하고 끝이 아닌, 지속적으로 업데이트 할 수 있는 인프라를 제공하기 위해 필요한 도구를 모두 지원합니다.
