@@ -1,9 +1,37 @@
-## 헤더
-___
+언어 설정
+-----
 
-내용1
 
-## 헤더2
-___
+우측 상단 헤더의 프로필 버튼을 클릭합니다.
 
-내용2
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_01.png)  
+
+  
+
+언어 메뉴를 열어 원하는 언어(한국어/영어)를 선택하면 브라우저의 언어 설정이 변경됩니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_02.png)  
+
+  
+
+테마 설정
+-----
+
+
+브릿지 콘솔 페이지는 어두운 테마/밝은 테마 두 종류의 테마 옵션을 제공합니다.
+
+프로필 메뉴를 활성화하여 테마 메뉴에서 원하는 테마를 선택하면 브라우저의 테마가 변경됩니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_03.png)  
+
+  
+
+(어두운 테마) 조직 대시보드
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_04.png)  
+
+  
+
+(밝은 테마) 조직 대시보드
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/users_theme_05.png)  
