@@ -9,7 +9,7 @@
 
 또한 활동 내역과 월별 최근 활동 정보를 요약하여 보여줍니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_01.png)  
 
   
 
@@ -28,7 +28,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_02.png)  
 
   
 
@@ -43,7 +43,7 @@
 
 현재 사용자가 속하고 있는 조직 목록을 보여줍니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_03.png)  
 
   
 
@@ -60,7 +60,7 @@
 
 사이드 메뉴의 설정 메뉴로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_04.png)  
 
   
 
@@ -72,7 +72,7 @@
 
 입력 양식에 맞게 입력하고 저장 버튼을 눌러 변경 사항을 기록합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_05.png)  
 
   
   
@@ -86,7 +86,7 @@
 
 계정 정보에서 동그란 아바타 영역을 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_06.png)  
 
   
 
@@ -94,7 +94,7 @@
 
 기본 제공되는 아바타를 선택해서 프로필 이미지를 변경합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_07.png)  
 
   
 
@@ -102,7 +102,7 @@
 
 확인 버튼을 누르면 성공적으로 프로필 이미지가 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_08.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_08.png)  
 
   
 
@@ -119,4 +119,4 @@
 
 \*비밀번호는 영문, 숫자, 특수문자를 조합하여 9~20자 이내로 가능합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/my_settings_09.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_09.png)  
