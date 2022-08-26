@@ -19,8 +19,6 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_in_and_sign_up_04.png)  
 
-<br>
-
 
 ## 이메일 인증
 
@@ -35,7 +33,6 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_in_and_sign_up_06.png)  
 
-<br>
 
 
 ## 로그인
