@@ -10,7 +10,7 @@
 
 플랫폼 안에 여러 조직들이 있고, 하나의 조직에서 여러 프로젝트를 관리하고 하나의 프로젝트에서 AI 모델 개발 파이프라인을 진행합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_01.png)  
 
 
   
@@ -35,7 +35,7 @@
 
 사이드 메뉴의 상단 조직 아바타 영역을 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_02.png)  
 
 
   
@@ -44,4 +44,4 @@
 
 변경할 조직에 있는 '변경'버튼을 클릭하면 선택된 조직의 페이지로 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_03.png)  
