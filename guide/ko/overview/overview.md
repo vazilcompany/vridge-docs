@@ -1,4 +1,4 @@
-## 브릿지(Vridge)란 뭐지?
+## 브릿지(Vridge)란
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/overview/overview_01.png)
 
