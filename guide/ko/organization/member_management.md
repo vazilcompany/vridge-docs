@@ -53,7 +53,6 @@
 -----
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management_06.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234448234-0afc3e20-0d2a-48a7-a3cc-d7695c14cee2.png)
 
 삭제하고자 하는 구성원의 등급이 'MEMBER'이며, 현재 속한 프로젝트가 없을 경우 삭제할 수 있습니다.
