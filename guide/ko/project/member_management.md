@@ -17,8 +17,7 @@
 
 멤버들의 이메일, 이름, 현재 프로젝트 내의 등급, 브릿지 가입일을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/member_management_02.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234449224-8bb88122-20fa-47dc-917b-21aef61f19a7.png)
 
   
 
@@ -32,8 +31,7 @@
 
 우측 상단의 추가 버튼을 클릭합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/member_management_03.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234449397-fafdaa2d-8636-4a67-a2b2-48f9f8b62207.png)
 
   
 
@@ -41,7 +39,6 @@
 
 (\*프로젝트 멤버 추가는 조직 내 멤버만 초대 가능하며, 다른 사용자를 추가하기 위해서는 조직 멤버로 먼저 초대되어야 합니다.)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/member_management_04.png)  
 
 
   
