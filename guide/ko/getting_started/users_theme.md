@@ -10,8 +10,7 @@
 
 언어 메뉴를 열어 원하는 언어(한국어/영어)를 선택하면 브라우저의 언어 설정이 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_02.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234446515-aef5700c-8d77-4ea9-b853-a3cc59c27dfb.png)
   
 
 테마 설정
@@ -22,8 +21,7 @@
 
 프로필 메뉴를 활성화하여 테마 메뉴에서 원하는 테마를 선택하면 브라우저의 테마가 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/users_theme_03.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234446595-d2188df5-0493-426a-a7b9-ec7041b1877c.png)
   
 
 (어두운 테마) 조직 대시보드
