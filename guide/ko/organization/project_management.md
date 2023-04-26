@@ -32,8 +32,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/project_management_03.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234448934-728d2e98-99d7-4d53-89f7-4740065f9edb.png)
   
 
 추가 버튼을 클릭하여 조직 내 다른 사용자를 프로젝트 멤버로 추가할 수 있습니다.
