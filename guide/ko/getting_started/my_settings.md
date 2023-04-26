@@ -102,7 +102,7 @@
 
 확인 버튼을 누르면 성공적으로 프로필 이미지가 변경됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/my_settings_08.png)  
+![image](https://user-images.githubusercontent.com/49744535/234446169-d9220db2-70c8-474f-94a5-7814491035f8.png)
 
   
 
