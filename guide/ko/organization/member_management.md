@@ -17,8 +17,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management_02.png)  
-
+![image](https://user-images.githubusercontent.com/49744535/234447176-d919b327-ba7e-447f-aeb7-583424b6c261.png)
 
   
 
