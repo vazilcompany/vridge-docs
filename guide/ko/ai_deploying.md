@@ -14,7 +14,6 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/ai_deploying_02.png)  
 
-  
 
   
 
