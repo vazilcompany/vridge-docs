@@ -70,25 +70,32 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 임계값에 따른 평가지표를 확인할 수 있습니다.
 
-mean Average Precision (mAP), Precision-Recall Curve
+### mean Average Precision (mAP), Precision-Recall Curve
 
-[mAP](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Mean_average_precision)
+[mAP 설명](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Mean_average_precision)
 
-[Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+[Precision and Recall 설명](https://en.wikipedia.org/wiki/Precision_and_recall)
 
-[Precision-Recall Curve](https://www.geeksforgeeks.org/precision-recall-curve-ml/)
+[Precision-Recall Curve 설명](https://www.geeksforgeeks.org/precision-recall-curve-ml/)
 
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_map_PRCurve.png)  
 
 
-결과 항목
+### 결과 항목
+
+각 라벨별 tp, fp, 임계값 이상의 예측수, 총 예측수, AP를 볼 수 있습니다. 
+
+[객체감지 평가지표 이해하기 - Precision, Recall, AP, mAP](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_result_item.png)  
 
 
-시험 결과
+### 시험 결과
+
+좌측화면 에서는 labeling한 실제 테스트 데이터를, 우측 화면에서는 예측값을 볼 수 있습니다. 
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_test_result.png)  
 
