@@ -28,7 +28,9 @@
 ## 분류, 이상치 탐지, 시계열 예측
 
 - keras 딥러닝 모델을 활용
-- 손실, 평균 절대 오차(MAE) 그래프  
+- 손실, 평균 절대 오차(MAE) 그래프
+
+---
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/monitoring/monitoring.png)  
 
@@ -37,7 +39,10 @@
 ## 회귀 
 
 - 딥러닝 모델도 있지만, 선형회귀와 같은 ML 모델도 있음.
-- 딥러닝 모델이 아닌 경우, Monitoring 볼 수 없습니다. 
+- 딥러닝 모델이 아닌 경우, Monitoring 볼 수 없습니다.
+
+---
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/monitoring/regression_monitoring.png)  
  
