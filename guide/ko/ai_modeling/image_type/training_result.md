@@ -8,11 +8,15 @@
 
 AI 성장 및 배포 → 학습 → 학습 히스토리 → 학습 상세 정보 → 학습 평가
 
+
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_training_history.png)  
 
 
 
 AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 평가
+
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_model.png)  
 
@@ -34,6 +38,8 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 ## 분류
 
 모델의 정확도를 확인할 수 있으며, 라벨 클래스별 세부 평가 점수를 확인할 수 있습니다.
+
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_04.png)  
 
@@ -65,14 +71,25 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 임계값에 따른 평가지표를 확인할 수 있습니다.
 
 mean Average Precision (mAP), Precision-Recall Curve
+
+[mAP](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Mean_average_precision)
+
+[Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+
+[Precision-Recall Curve](https://www.geeksforgeeks.org/precision-recall-curve-ml/)
+
+
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_map_PRCurve.png)  
 
 
 결과 항목
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_result_item.png)  
 
 
 시험 결과
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_test_result.png)  
 
 
