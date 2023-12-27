@@ -2,7 +2,7 @@
 
 정형 데이터 유형 프로젝트의 데이터를 관리합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/structured_data/structured_data_list.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/structured_data/structured_dataset.png)  
 
   
 
