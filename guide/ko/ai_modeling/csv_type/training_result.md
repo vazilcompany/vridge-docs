@@ -63,8 +63,6 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 행렬의 각 셀을 선택하여 상세한 데이터별 예측 정보를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_09.png)  
-
 
 
 
