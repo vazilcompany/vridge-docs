@@ -25,7 +25,9 @@
 
 
 1. 새로운 버전의 모델을 만들기 위한 베이스 모델을 설정합니다.
+   
    - 오픈 라이센스로 제공되는 여러 pre-trained 된 모델을 베이스 모델로 선택할 수 있습니다.
+   
    
 2. 하이퍼 파라미터 설정
 
@@ -79,7 +81,7 @@
        
        이렇게 하면 가중치 업데이트가 점진적으로 이루어지므로, 모델이 안정적으로 학습할 수 있습니다.
    
-4. 모델 태그 설정
+3. 모델 태그 설정
    - 모델에 대한 태그를 설정합니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/set_training_config.png)  
