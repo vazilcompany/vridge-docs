@@ -4,9 +4,9 @@
 
 학습 결과 확인
 --------
+학습 결과를 확인할 수 있는 두 가지 방법이 있습니다. 
 
-
-AI 성장 및 배포 → 학습 → 학습 히스토리 → 학습 상세 정보 → 학습 평가
+첫째, AI 성장 및 배포 → 학습 → 학습 히스토리 → 학습 상세 정보 → 학습 평가
 
 
 
@@ -14,7 +14,7 @@ AI 성장 및 배포 → 학습 → 학습 히스토리 → 학습 상세 정보
 
 
 
-AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 평가
+둘째, AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 평가
 
 
 
@@ -29,7 +29,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
   
 
-모델 평가
+모델(학습) 평가
 -----
 
 평가 탭을 클릭하여 평가 결과를 확인할 수 있습니다.
@@ -68,7 +68,12 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 ## 시계열 예측 
 
-시계열 예측 결과 설명
+평가 지표 : 모델의 평가 지표(기본적으로 평균 절대오차)를 확인할 수 있습니다. 
+
+결과 그래프 : 설정한 window 단위로 구분된 그래프를 통해, input data, 라벨(실제 값), 예측값을 볼 수 있습니다.  
+
+테스트 데이터 셋 : 테스트 시 사용한 컬럼별 데이터를 표 형태로 볼 수 있습니다.
+
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_forecasting.png)  
@@ -79,7 +84,12 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 ## 회귀
 
-회귀 예측 결과 설명 
+평가 지표 : 모델의 평가 지표(평균 절대오차, 평균 제곱오차, 평균 제곱근오차)를 확인할 수 있습니다. 
+
+테스트 데이터 셋 : 테스트 시 사용한 컬럼별 데이터를 표 형태로 볼 수 있습니다.
+
+결과 그래프 : input data, 라벨(실제 값), 예측값을 볼 수 있습니다.  
+
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_regression.png)  
