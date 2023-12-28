@@ -116,39 +116,68 @@
 
 *   업로드된 이미지 개수와 파일 크기
 
-  
-
-  
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_09.png)  
 
 
-*   목록 필터 : 특정 라벨이나 태그, 업로드 날짜로 필터링하여 이미지를 확인할 수 있습니다.
-*   라벨 별로 데이터 갯수를 확인할 수 있습니다.
-*   이미지 목록을 새로고침 합니다.
-*   보기 방식을 리스트형으로 변경합니다.
-*   보기 방식을 앨범형으로 변경합니다.
-*   휴지통 : 삭제한 이미지가 보관되며, 복원하거나 영구 삭제할 수 있습니다.
-*   다운로드 : 데이터 세트를 다운받을 수 있습니다.
+### 필터
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/)  
 
   
 
+
+### 오른쪽 마우스 클릭 옵션
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/rigth_click_option.png)  
+
+
+상세 정보
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/file_detail_info.png)  
+
+
+라벨링 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/labeling.png)  
+
+
+다운로드 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/download_file.png)  
+
+
+삭제 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/delete_image.png)  
+
+
+
+
+
+
+### 이미지 선택
+
+데이터 행을 클릭하여 라벨을 바꾸거나, 다운로드, 삭제할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/selected_image.png)  
+
+
+다운로드
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/select_download.png)  
+
+다운로드 옵션에는 
+
+이미지만 다운, Json 포맷, Coco Json 포맷, Pascal VOC 포맷 등이 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/download_option.png)  
+
+
+
   
 
-데이터 행의 체크박스를 선택하여 데이터를 삭제할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_10.png)  
-
-
-  
-
-  
-
-데이터 행을 클릭하여 파일 상세정보를 확인하거나
-
-이미지 크기, 명도, 대비를 조절하여 다운로드할 수 있습니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_11.png)  
 
 
 
@@ -158,32 +187,27 @@
 새로운 데이터셋을 생성합니다. 
 
 
-원천 데이터 
-------
+### 원천 데이터 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/source_data.png)  
 
 
-학습 데이터 분할 
--------
+### 학습 데이터 분할 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/split_data.png)  
 
 
-전처리 설정 
-------
+### 전처리 설정 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/preprocessing_setting.png)  
 
 
-증강 설정 
--------
+### 증강 설정 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/augmented_setting.png)  
 
 
-상세 정보
-------
+### 상세 정보
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/detail_info.png)  
 
