@@ -117,39 +117,36 @@
 *   업로드된 이미지 개수와 파일 크기
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_09.png)  
-
-
 ### 필터
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/filtering.png)  
 
   
 
 
 ### 오른쪽 마우스 클릭 옵션
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/rigth_click_option.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/rigth_click_option.png)  
 
 
 상세 정보
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/file_detail_info.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/file_detail_info.png)  
 
 
 라벨링 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/labeling.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/labeling.png)  
 
 
 다운로드 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/download_file.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/download_file.png)  
 
 
 삭제 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/delete_image.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/delete_image.png)  
 
 
 
