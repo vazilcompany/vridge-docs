@@ -107,17 +107,16 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_data_management.png)  
 
 
-  
-
-  
+업로드된 이미지 개수와 파일 크기를 확인할 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_08.png)  
 
 
-*   업로드된 이미지 개수와 파일 크기
-
 
 ### 필터
+
+라벨 클래스, 업로드된 날짜 등으로 필터링이 가능하고, 내림차순, 오름차순 정렬이 가능합니다. 
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/filtering.png)  
 
@@ -126,25 +125,38 @@
 
 ### 오른쪽 마우스 클릭 옵션
 
+이미지 오른쪽 마우스 클릭시, 다양한 설정을 할 수 있습니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/rigth_click_option.png)  
 
 
 상세 정보
+
+이미지의 파일이름, 가로 세로 길이, 크기, 업로드 날짜, 라벨링 내역등의 상세 정보를 볼 수 있습니다.  
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/file_detail_info.png)  
 
 
 라벨링 
 
+라벨링 페이지로 넘어 가게 됩니다. 
+
+상세한 설명은 가이드의 라벨링 작업을 참고해 주시기 바랍니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/labeling.png)  
 
 
 다운로드 
 
+파일을 다운로드 할 수 있는 창이 나옵니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/download_file.png)  
 
 
 삭제 
+
+파일 삭제를 할 수 있는 창이 나옵니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/delete_image.png)  
 
