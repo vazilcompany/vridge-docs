@@ -76,7 +76,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_forecasting.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_forecasting2.png)  
 
 
 
