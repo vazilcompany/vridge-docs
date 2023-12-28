@@ -2,7 +2,7 @@
 
 이미지 유형 프로젝트의 데이터(이미지)를 관리합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_data_management.png)  
 
 
   
@@ -11,29 +11,18 @@
 ------
 
 
-'이미지 추가' 버튼을 눌러 이미지를 업로드할 수 있습니다.
+'파일 업로드' 버튼을 눌러 이미지를 업로드할 수 있습니다.
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/upload_dialog.png)  
 
 
   
 
-'이미지 선택' 란을 클릭하거나, 파일을 드래그하여 첨부할 수 있습니다.
+'파일 선택' 란을 클릭하거나, 파일을 드래그하여 첨부할 수 있습니다.
 
-  
-
-이미지에 라벨을 붙여 업로드하거나
-
-'no label'로 업로드한 뒤 추후에 라벨링 작업을 할 수 있습니다.
-
-  
-
-'Auto Labeling : ON' 으로 설정하여 업로드할 경우,
-
-해당 프로젝트에서 학습된 최신 버전의 모델 또는 임의로 업로드한 모델을 선택하여 오토 라벨링이 가능합니다. (현재 미지원)
-
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/file_upload.png)  
   
 
   
@@ -42,20 +31,15 @@
 -----
 
 
-'폴더 추가' 버튼을 눌러 폴더 단위로 이미지를 업로드할 수 있습니다.
+'폴더 선택' 버튼을 눌러 폴더 단위로 이미지를 업로드할 수 있습니다.
 
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_03.png)  
-
-
-점선 내부 영역을 클릭하거나, 폴더를 드래그하여 첨부할 수 있습니다.
-
+열린 파일 탐색창의 폴더를 클릭하거나, 점선 내부 영역으로 드래그하여 첨부할 수 있습니다.
   
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_04.png)  
 
-
+수정 필요! : 라벨이 설정이 안됨
+------
 폴더 선택 시 가장 하위 폴더의 폴더명이 라벨명으로 할당됩니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_05.png)  
@@ -65,14 +49,50 @@
 
   
 
-업로드 버튼을 누르면 업로드가 진행되며,
+업로드 버튼을 누르면 업로드가 진행됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/uploading.png)  
 
 
-중지 버튼으로 멈출 수 있습니다.
 
   
+업로드 설정 
+------
+
+### 라벨 설정 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/upload_setting_label.png)  
+
+
+### 태그 추가 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/upload_setting_add_tag.png)  
+
+
+### 색상 필터 변경 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/change_color_filter.png)  
+ 
+
+
+### 전체 크기 조정 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/resizing_the_whole_image.png)  
+  
+
+
+### 파일이름 규칙 변경 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/change_file_naming_conventions.png)  
+  
+
+
+### 비우기 
+업로드 창에 올렸던 파일들을 비웁니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/empty.png)  
+
+
 
   
 
