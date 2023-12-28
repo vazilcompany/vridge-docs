@@ -100,11 +100,11 @@
 ------
 
 
-업로드된 이미지의 이름, 분류, 태그, 크기, 유형, 생성 날짜를 확인할 수 있습니다.
+업로드된 이미지의 이름, 분류, 크기, 생성 날짜를 확인할 수 있습니다.
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_data_management.png)  
 
 
   
@@ -149,3 +149,46 @@
 이미지 크기, 명도, 대비를 조절하여 다운로드할 수 있습니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_11.png)  
+
+
+
+
+데이터셋 생성
+------
+새로운 데이터셋을 생성합니다. 
+
+
+원천 데이터 
+------
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/source_data.png)  
+
+
+학습 데이터 분할 
+-------
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/split_data.png)  
+
+
+전처리 설정 
+------
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/preprocessing_setting.png)  
+
+
+증강 설정 
+-------
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/augmented_setting.png)  
+
+
+상세 정보
+------
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/detail_info.png)  
+
+
+
+
+
+
