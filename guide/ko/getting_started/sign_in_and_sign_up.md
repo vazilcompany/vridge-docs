@@ -35,12 +35,14 @@
 이메일 인증하기 버튼을 누르면 연결된 링크로 이동합니다.  
 인증 링크는 메일 전송일로부터 2시간 동안 유효하며, 시간이 지나면 다시 이메일 인증을 요청해야 합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_6.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_8.png)  
+
 
 
 인증이 안된 계정으로 로그인을 하면 이메일 인증 재전송 버튼을 통해 다시 인증을 할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_8.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_6.png)  
+
 
 
 ## 로그인
