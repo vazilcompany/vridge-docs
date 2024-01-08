@@ -7,14 +7,19 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_1.png)  
 
-[필수] 아래 가입에 필요한 기본정보를 양식에 맞추어 입력합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_2.png)  
 
 개인정보처리방침 및 이용약관 사이트로 이동하여 내용을 확인합니다.  
 확인 후 체크박스를 선택하면 회원 등록 버튼이 활성화 되며, 이를 클릭하여 회원을 등록합니다.
 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_2.png)  
+
+
+
+[필수] 아래 가입에 필요한 기본정보를 양식에 맞추어 입력합니다.
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_3.png)  
+
 
 등록이 완료되면 등록시 입력한 이메일 주소로 인증 메일이 전송됩니다.  
 이메일 인증이 완료되면 서비스를 시작할 수 있습니다.
