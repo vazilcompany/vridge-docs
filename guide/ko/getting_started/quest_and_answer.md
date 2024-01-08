@@ -13,7 +13,7 @@
 
 왼쪽 내비게이션 바에서 도움 버튼을 클릭하면 문의할 수 있는 채팅 컴포넌트가 열립니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer/quest_and_answer_0.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer/quest_and_answer_0_1.png)  
 
 
 새 문의하기 버튼을 클릭하여 새로운 상담을 연결합니다.  
