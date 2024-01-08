@@ -49,7 +49,7 @@
 
 회원가입시 등록했던 이메일과 패스워드를 입력 후 로그인 버튼을 눌러 로그인을 합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_in_and_sign_in_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_in_1.png)  
 
 
 로그인이 성공하면 브릿지 홈페이지로 이동합니다.
