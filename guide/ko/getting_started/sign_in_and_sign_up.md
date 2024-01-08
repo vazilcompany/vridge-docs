@@ -10,7 +10,7 @@
 
 
 개인정보처리방침 및 이용약관 사이트로 이동하여 내용을 확인합니다.  
-확인 후 체크박스를 선택하면 회원 등록 버튼이 활성화 되며, 이를 클릭하여 회원을 등록합니다.
+확인 후 체크박스를 선택하면 정보 입력 버튼이 활성화 되며, 이를 클릭하여 회원을 등록합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_2.png)  
 
@@ -24,21 +24,23 @@
 등록이 완료되면 등록시 입력한 이메일 주소로 인증 메일이 전송됩니다.  
 이메일 인증이 완료되면 서비스를 시작할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_in_and_sign_up_4.png)  
-
 
 ## 이메일 인증
 
 회원가입에 등록했던 이메일 주소로 인증 확인 메일이 전송됩니다.
 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_7.png)  
+
+
 이메일 인증하기 버튼을 누르면 연결된 링크로 이동합니다.  
 인증 링크는 메일 전송일로부터 2시간 동안 유효하며, 시간이 지나면 다시 이메일 인증을 요청해야 합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_in_and_sign_up_6.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_6.png)  
+
 
 인증이 안된 계정으로 로그인을 하면 이메일 인증 재전송 버튼을 통해 다시 인증을 할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_in_and_sign_up_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/sign_up_and_sign_in/sign_up_8.png)  
 
 
 ## 로그인
