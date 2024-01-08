@@ -1,4 +1,6 @@
 ## Vridge 회원 가입
+브릿지 홈페이지
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/vridge_index.png)  
 
 회원가입을 위해 홈페이지에서 로그인화면으로 이동합니다.  
 로그인화면에서 '회원가입'버튼을 눌러 진행합니다.  
