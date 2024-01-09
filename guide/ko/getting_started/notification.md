@@ -18,19 +18,18 @@
 --------
 
 
-알림 버튼을 선택하여 패널을 활성화하면 알림 내용과 시간을 확인할 수 있습니다.
+오른쪽 상단의 알림 버튼을 선택하여 패널을 활성화하면 알림 내용과 시간을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification/notification_3.png)    
 
-  
-
-모두 읽음 처리 버튼으로 모든 알림을 읽음 처리 할 수 있습니다.
-
-  
 
 전체 보기를 누르면 사용자의 전체 알림 히스토리를 확인할 수 있는 페이지로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification/notification_4.png)  
+
+또는 사용자 아이콘 선택 후, 알림 버튼 선택으로 알림 전체 내용 확인 창으로 이동할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification/notification_1.png)  
 
   
 
@@ -44,17 +43,18 @@
 
 현재 로그인한 사용자가 받은 모든 알림 히스토리를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification/notification_5.png)  
 
   
+
+모두 읽음 처리 버튼으로 모든 알림을 읽음 처리 할 수 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification_06.png)  
+
 
 읽음 처리가 된 알림은 테이블에 체크 아이콘으로 표시됩니다.
 
-또한 모두 읽음 처리 버튼으로 모든 알림을 읽음 처리 할 수 있습니다.
-
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/notification/notification_8.png)  
 
   
 
