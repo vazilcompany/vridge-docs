@@ -1,82 +1,97 @@
-대시보드 화면은 왼쪽 메뉴바에서 '조직'을 클릭하여 접근 가능합니다.
+![image](https://github.com/vazilcompany/vridge-docs/assets/83794701/83ae9b39-5635-42c8-9fa4-b20fc14b4dc0)대시보드 화면은 왼쪽 메뉴바에서 '조직'을 클릭하여 접근 가능합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/move_to_dashboard.png)  
 
 
   
-조직 정보 
+대시보드 전체 화면 
 -------
 
-조직 정보 전체 화면
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_2.png)  
-
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/dashboard_full_screen.png)  
 
 
- 
 
-조직 멤버 목록
+요약 정보
+------
+
+모델, 포인트에 대한 요약 정보를 보여 줍니다. 
+
+사용중인 AI 모델 수, 가동 중인 웹 포인트, 연결된 엣지 포인트, 경고 등을 볼 수 있습니다. 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/point_summary_info.png)  
+
+
+
+
+추론 사용 통계
 --------
 
+선택한 기간 동안의 추론 사용 통계를 볼 수 있습니다. 
 
-현재 조직의 구성원 목록을 보여줍니다.
+기간 선택하기 
 
-구성원 카드 클릭 시 해당 구성원의 프로필 화면으로 이동합니다.
 
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/selct_period.png)  
 
 
 
+추론 통계 그래프 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/inference_usage_statistics.png)  
 
 
-전체 사용 용량 
+
+
+개별 포인트 그래프 
 ------
 
-조직 전체의 사용 용량 요약 정보입니다.  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_4.png)  
+각 포인트들의 추론 요약 통계를 볼 수 있습니다.
 
 
-자세히 보가 아이콘을 클릭시, 상세 정보(모델 용량, 데이터셋 용량)을 볼 수 있습니다.  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_5.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/after_add_point.png)  
 
 
 
-
-프로젝트, 데이터셋, 모델 요약 정보 
--------
-
-프로젝트 수, 데이터셋 파일 수, 모델 개수를 요약해서 보여줍니다. 
-
-바로가기 아이콘 클릭시 각 페이지로 이동합니다. 
-
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_6.png)  
-
-
-학습 기록 
+관리 포인트 비활성화 
 ------
 
-조직의 최근 학습 기록을 보여줍니다. 
+각 포인트를 선택해서, 포인트 페이지로 이동하거나, 비활성화 시킬 수 있습니다.
 
-학습 이름을 클릭시, 선택된 학습 정보 페이지로 이동합니다.  
+포인트 선택하기 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_7.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/select_detail_point.png)  
+
+활성화 토글 버튼을 클릭하면 비활성화 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/activation_button.png)  
+
+비활성화 시킨 후 포인트 관리 창 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/after_deactivate_point.png)  
 
 
 
-배포 기록
+
+
+
+관리 포인트 추가
 ------
 
-조직의 배포 기록을 보여줍니다. 
+관리 포인트 추가 버튼을 통해, 관리 포인트를 추가 할 수 있습니다. 
 
-어떤 모델을 어떤 포인트에 배포 했는지를 볼 수 있습니다. 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/add_point.png)  
 
-각각의 모델 아이디, 포인트 아이디를 클릭시 선택된 모델, 포인트 페이지로 이동할 수 있습니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_8.png)  
+버튼을 클릭하면 관리 포인트 추가 설정 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/add_point_dialog.png)  
+
+
+활성화 버튼을 클릭하면, 관리 포인트에 추가된 포인트를 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/after_add_point.png)  
+
 
 
