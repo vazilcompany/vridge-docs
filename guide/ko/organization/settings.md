@@ -1,22 +1,22 @@
 조직 정보를 변경하거나 탈퇴 또는 삭제할 수 있습니다.
 
-조직 페이지의 조직 관리 → 조직 설정 메뉴로 이동합니다.
+조직 페이지의 조직 관리 → 설정 메뉴로 이동합니다.
 
-\*조직의 Admin 이상의 등급만 가능한 메뉴
+\*조직의 관리자 이상의 등급만 가능한 메뉴
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_1.png)  
 
 
   
 
-조직 정보 변경 - 이름
+조직 정보
 -------------
-
 
 조직 정보 아코디언 패널을 선택하여 패널을 활성화합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_02.png)  
+조직 이름, 조직 대표 이미지등을 변경할 수 있습니다. 
 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_2.png)  
 
   
 
