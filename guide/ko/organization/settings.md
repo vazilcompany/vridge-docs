@@ -52,7 +52,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_6.png)  
 
 
   
@@ -61,7 +61,7 @@
 
 랜덤 문자를 입력하고 확인 버튼을 클릭하면 조직이 삭제됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_7.png)  
 
 
 \*조직의 멤버가 남아있거나, 프로젝트가 하나라도 있을 경우 삭제가 되지 않습니다.
