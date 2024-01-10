@@ -43,7 +43,20 @@
 
 현재 조직에서 '관리자' 등급인 사용자는 다른 사용자의 등급을 변경할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management/member_management_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management/member_management_4.png)  
+
+
+
+변경 가능한 등급
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management/member_management_5.png)  
+
+
+변경 후 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/member_management/member_management_6.png)  
+
 
 
   
