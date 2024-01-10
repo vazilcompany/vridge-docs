@@ -1,4 +1,5 @@
-![image](https://github.com/vazilcompany/vridge-docs/assets/83794701/83ae9b39-5635-42c8-9fa4-b20fc14b4dc0)대시보드 화면은 왼쪽 메뉴바에서 '조직'을 클릭하여 접근 가능합니다.
+
+대시보드 화면은 왼쪽 메뉴바에서 '조직'을 클릭하여 접근 가능합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/dashboard/move_to_dashboard.png)  
 
