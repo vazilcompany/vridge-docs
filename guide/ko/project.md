@@ -89,7 +89,7 @@
   
 프로젝트 진행 중 창
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_index/create_project_7.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_index/create_project_10.png)  
 
 
 
