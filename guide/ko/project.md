@@ -71,7 +71,7 @@
 
 \*현재 브릿지 플랫폼에서 제공하는 AI 유형은 다음과 같습니다. (2024-01-10 기준)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_index/create_project_support_type.png)  
 
   
   
