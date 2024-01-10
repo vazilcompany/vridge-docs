@@ -29,7 +29,7 @@
 
   
 
-콘솔 조직 변경
+조직 변경
 --------
 
 
@@ -44,3 +44,9 @@
 아이콘을 클릭한 후, 나타난 조직 리스트 중의 하나를 선택하면, 조직이 곧바로 변경됩니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/change_organization/change_organization_2.png)  
+
+
+조직 변경 후
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/change_organization/change_organization_5.png)  
+
