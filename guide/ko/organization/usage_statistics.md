@@ -7,6 +7,8 @@
 ------
 조직의 라벨링, 배포, 학습, 데이터셋 사용량을 볼 수 있습니다. 
 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/usage_statistics/usage_statistics_1.png)  
+
 
 
 프로젝트별 사용 통계
