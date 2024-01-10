@@ -95,4 +95,4 @@
 
 등록이 완료되면 목록에 나타나게 됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_index/create_project_8.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_index/create_project_9.png)  
