@@ -2,7 +2,7 @@
 
 조직 페이지의 조직 관리 → 프로젝트 관리 메뉴로 이동합니다.
 
-\*조직의 Admin 이상의 등급만 가능한 메뉴
+\*조직의 '관리자' 이상의 등급만 가능한 메뉴
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/project_management/move_to_project_management.png)  
 
