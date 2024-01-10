@@ -33,15 +33,14 @@
 --------
 
 
-사이드 메뉴의 상단 조직 아바타 영역을 선택합니다.
+화면 상단 중앙 부분의 아이콘을 클릭해서, 조직을 변경할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/change_organization/change_organization.png)  
 
-
-  
 
   
 
-변경할 조직에 있는 '변경'버튼을 클릭하면 선택된 조직의 페이지로 변경됩니다.
+  
+아이콘을 클릭한 후, 나타난 조직 리스트 중의 하나를 선택하면, 조직이 곧바로 변경됩니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/change_organization/change_organization_2.png)  
