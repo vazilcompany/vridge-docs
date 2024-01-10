@@ -36,7 +36,7 @@
 
 아바타 프로필을 클릭 시 해당 사용자의 개인 정보 페이지로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_home/project_home_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_home/project_home_3_1.png)  
 
   
   
