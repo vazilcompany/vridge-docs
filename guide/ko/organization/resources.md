@@ -14,7 +14,7 @@
 데이터셋명 클릭하여 해당 데이터셋 화면으로 이동할 수 있습니다.
 
   
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/resources/2_dataset.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/resources/2_dataset_1.png)  
 
 
   
@@ -31,7 +31,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/resources/3_model.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/resources/3_model_1.png)  
 
 
   
