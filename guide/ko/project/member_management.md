@@ -24,6 +24,8 @@
 
 초대하기 버튼을 누르면, 조직 멤버를 프로젝트에 초대할 수 있습니다. 
 
+/*주의, 프로젝트에 초대할 멤버는, 그전에 조직에 초대되어 있어야 합니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/project_management/project_management_5.png)  
 
   
