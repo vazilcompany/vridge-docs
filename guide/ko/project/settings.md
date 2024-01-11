@@ -2,14 +2,17 @@
 
 프로젝트 사이드 메뉴에서 '프로젝트 설정'으로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_0.png)  
 
+이동 후 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_1.png)  
 
   
 
 설정 유형에 따른 아코디언 메뉴가 나타납니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_3.png)  
 
 
   
@@ -24,13 +27,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_03.png)  
-
-
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_04.png)  
-
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_4.png)  
 
   
 
@@ -38,8 +35,7 @@
 
 이미지 변경 버튼을 눌러 로컬 저장소에 있는 이미지를 업로드합니다.(500kb 미만)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_05.png)  
-
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_5.png)  
 
   
 
@@ -54,7 +50,7 @@
 
   
 
-라벨링 설정
+라벨 설정
 ------
 
 
@@ -62,9 +58,9 @@
 
   
 
-클립 버튼을 클릭하여 로컬 저장소에 있는 pdf 파일을 선택하고 변경사항 저장 버튼을 눌러 저장합니다.
+'파일 선택 칸'을 클릭하여 로컬 저장소에 있는 pdf 파일을 선택하고 '변경사항 저장' 버튼을 눌러 저장합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/label_setting_0.png)  
 
 
 업로드 후 활성화 되는 PDF 버튼을 눌러 열람할 수 있으며,
@@ -72,17 +68,14 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_08.png)  
 
 
-라벨링 작업 페이지에서 좌측 도구 패널의 전구 모양의 아이콘을 클릭하여 열람 할 수도 있습니다.
+라벨링 작업 페이지에서 우측 상단 도구 패널의 물음표 모양의 아이콘을 클릭하여 열람 할 수도 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_09.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/label_setting_1.png)  
 
 
-  
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_10.png)  
 
-
-  
 
   
 
@@ -96,12 +89,9 @@
 
 현재 프로젝트의 자동 예약 학습 설정을 할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_11.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/training_schedule_setting/training_schedule_setting_1.png)  
 
 
-  
-
-  
 
 학습을 반복할 주기를 선택합니다. (다중 선택 가능)
 
@@ -130,7 +120,7 @@
 
 사전 학습 변수 및 학습 정책을 확인합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_15.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/training_schedule_setting/training_schedule_setting_3.png)  
 
 
   
@@ -168,7 +158,7 @@
 
 변경하고자 하는 반복주기,시간,분,옵션 값을 조정하고 저장 버튼을 눌러 수정합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_19.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/training_schedule_setting/training_schedule_setting_4.png)  
 
 
   
@@ -194,9 +184,162 @@
 
   
 
+
+
+
+데이터세트 설정 
+------
   
+데이터셋의 오류를 수정하거나, 데이터셋의 데이터를 초기화합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_0.png)  
+
+
+
+
+\## 데이터셋 동기화 
+
+원천데이터(업로드한 이미지 파일)와 어노테이션 정보(파일에 대한 메타 정보)가 일치하지 않는 경우 실행합니다. 
+
+데이터셋 동기화 버튼을 누르면
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_2.png)  
+
+데이터셋 동기화 창이 나오게 되고, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_3.png)  
+
+원천 데이터와 어노테이션 정보가 일치하지 않는 어노테이션 정보를 DB에서 삭제합니다. 
+
+작업이 성공하면, 아래와 같은 데이터셋 초기화 성공 창이 열리게 됩니다.  
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_4.png)  
+
+
+
+
+
+## 데이터셋 초기화 
+
+데이터셋 초기화 버튼을 누르고,
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_5.png)  
+
+
+데이터셋 초기화 확인 창이 나오게 되고,  
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_6.png)  
+
+
+확인 문자를 작성하고, 확인 버튼을 누르면,
+
+데이터셋의 원천데이터(업로드한 이미지 파일)와 어노테이션(파일에 대한 메타 정보)을 모두 삭제합니다.  
+
+
 
   
+
+모니터링 설정 
+------
+
+일단 나중에 
+
+
+
+
+
+알림 연동 
+------
+
+외부앱을 연동하여 알림을 받을 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_0.png)  
+
+
+
+연동 추가 버튼을 누르면, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_1.png)  
+
+
+
+알림 서비스 선택 창이 나옵니다. 
+(현재 vridge서비스는 MATTERMOST, SLACK, 웹 알림을 지원합니다.)
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_2.png)  
+
+
+
+
+연동 버튼을 클릭하면, 알림 생성 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_3.png)  
+
+
+
+
+알림 서비스를 식별하기 위한 이름을 적고, 서비스 URL을 입력하고, 저장 버튼을 누르면, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_4.png)  
+
+
+
+알림 설정이 만들어지고, 자세한 설정이 가능한 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_5.png)  
+
+
+
+이름, URL을 수정 후 저장할 수 있고,
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_6.png)  
+
+
+
+'실험'버튼을 통해, 연결이 제대로 되었는지 확인 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_7.png)  
+
+
+
+'비활성화' 버튼을 통해, 알림을 활성화/비활성화 시킬 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_8.png)  
+
+
+
+'삭제' 버튼을 통해, 설정한 알림을 삭제할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_9.png)  
+
+
+
+
+토글 버튼을 활성화하면, 활성화된 토글 버튼의 상황에서 알림이 전송됩니다. 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/external_notification/external_notification_10.png)  
+
+
+
+
+
+
+SLACK 웹훅 URL 구성 방법 
+------
+
+
+
+
+MATTERMOST 웹훅 URL 구성 방법
+------
+
+
+
+
+웹 훅 URL 구성 방법 
+------
+
 
   
 
@@ -210,7 +353,7 @@
 
 (관리자)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_23.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/general/general_setting_0.png)  
 
 
 삭제 버튼을 누르면 확인 다이얼로그 창이 나타납니다.
@@ -221,7 +364,7 @@
 
 (\*삭제가 된 프로젝트는 복구가 되지 않으니 신중히 결정하시길 바랍니다.)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_24.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/general/general_setting_1.png)  
 
 
   
