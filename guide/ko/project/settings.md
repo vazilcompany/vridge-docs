@@ -4,7 +4,7 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_0.png)  
 
-이동 후 
+이동 후, 프로젝트 설정 창
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/basic_setting/basic_setting_1.png)  
 
@@ -77,9 +77,79 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_10.png)  
 
 
-  
 
-  
+
+어시스트 AI 설정
+------
+
+
+자동 라벨링을 위한 어시스트 AI 설정을 할 수 있습니다. 
+
+먼저, 어시스트 AI 설정 아래 칸에서 선택 가능한 포인트 중 하나를 선택 합니다. 
+
+
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_0.png)
+
+
+
+변경사항 저장 버튼을 누르면 저장됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_0_1.png)
+
+
+
+\* 주의사항 : 포인트가 running 상태이고, 모델이 배포되어 있어야 합니다.  
+\* 주의사항 : 포인트에 배포되어 있는 모델이, 현재 프로젝트와 같은 유형이어야 합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_1.png)
+
+
+
+어시스트 AI를 활성화시키려면, 데이터 관리 - 라벨링 페이지로 이동한 후, 
+
+왼쪽 사이드 도구 바에서, 어시스트 AI를 클릭합니다. 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_2.png)
+
+
+어시스트 AI 설정 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_3.png)
+
+
+활성화 버튼을 클립합니다. 
+
+
+어시스트 AI가 활성화 되면 활성화 알림이 화면 하단에 표시됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_4.png)
+
+
+
+어시스트 AI를 사용하려면, 라벨링 화면 우측 상단, '자동 라벨링' 버튼을 클릭합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_5.png)
+
+
+
+자동 라벨링 시작 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_6.png)
+
+
+
+시작 버튼을 클릭하면, 자동 라벨링을 시작합니다. 
+
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/label_setting/assist_7.png)
+
+
+
+
 
   
 
