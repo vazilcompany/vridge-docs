@@ -277,7 +277,7 @@
 
 데이터셋 동기화 창이 나오게 되고, 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_3_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/dataset_setting/dataset_setting_3_2.png)  
 
 원천 데이터와 어노테이션 정보가 일치하지 않는 어노테이션 정보를 DB에서 삭제합니다. 
 
