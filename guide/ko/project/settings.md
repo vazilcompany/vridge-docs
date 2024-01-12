@@ -442,7 +442,7 @@ MATTERMOST 웹훅 URL 구성 방법
 
 (작업자)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_25.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/general/general_setting_2.png)  
 
 
   
@@ -451,4 +451,4 @@ MATTERMOST 웹훅 URL 구성 방법
 
 랜덤 문자를 똑같이 입력하여 확인 버튼을 누르면 프로젝트 멤버에서 나가게 됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/settings_26.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/project/project_settings/general/general_setting_3.png)  
