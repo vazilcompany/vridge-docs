@@ -28,11 +28,11 @@
 
 '라벨 추가' 버튼을 눌러 라벨을 추가할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/label_class_management/label_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/label_class_management/label_3_1.png)  
 
 
 
-라벨 추가 창. 
+라벨 추가 버튼을 클릭하면, '라벨 추가 창'이 열립니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/label_class_management/label_4.png)  
 
@@ -84,7 +84,7 @@
 
 
 
-라벨 삭제 경고 창이 나옵니다. 
+휴지통 아이콘을 클릭하면, 라벨 삭제 경고 창이 나옵니다. 
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/label_class_management/label_12.png)  
