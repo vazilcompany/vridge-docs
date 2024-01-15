@@ -1,4 +1,5 @@
-  
+데이터 관리
+------
 
 이미지 유형 프로젝트의 데이터(이미지)를 관리합니다.
 
@@ -13,6 +14,13 @@
 
 '파일 업로드' 버튼을 눌러 이미지를 업로드할 수 있습니다.
 
+
+파일 업로드 버튼
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/file_upload_button.png)  
+
+
+이미지 업로드 화면 
   
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/upload_dialog.png)  
@@ -38,16 +46,6 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_04.png)  
 
-수정 필요! : 라벨이 설정이 안됨
-------
-폴더 선택 시 가장 하위 폴더의 폴더명이 라벨명으로 할당됩니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_05.png)  
-
-
-할당된 라벨을 클릭하여 라벨명과 색상을 수정할 수 있습니다.
-
-  
 
 업로드 버튼을 누르면 업로드가 진행됩니다.
 
@@ -58,6 +56,9 @@
   
 업로드 설정 
 ------
+
+업로드시 라벨, 태그, 색상, 크기, 파일 이름, 
+
 
 ### 라벨 설정 
 
@@ -81,13 +82,14 @@
   
 
 
-### 파일이름 규칙 변경 
+### 파일 이름 규칙 변경 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/change_file_naming_conventions.png)  
   
 
 
-### 비우기 
+비우기
+------
 업로드 창에 올렸던 파일들을 비웁니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/empty.png)  
@@ -244,6 +246,18 @@
 만들어진 데이터셋을 구분할 태그를 설정할 수 있습니다.  
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/detail_info.png)  
+
+
+### 데이터셋 생성 버튼 
+
+
+### 데이터 생성 후 페이지 이동 
+
+### 데이터셋 페이지에서 확인 할 수 있는 것들에 대한 설명 
+
+
+
+
 
 
 
