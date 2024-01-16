@@ -79,7 +79,7 @@
 업로드 창에서는 폴더 제일 아래의 이미지들이 업로드 됩니다. 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file_upload_images.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/image_upload_dialog_big_0.png)  
 
 
   
