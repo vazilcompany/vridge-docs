@@ -144,14 +144,41 @@
 
 ### 색상 필터 변경 
 
+추가 수정 필요. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/change_color_filter.png)  
  
 
 
 ### 전체 크기 조정 
 
+업로드시, 이미지의 크기를 조절하는 설정입니다. 
+예를 들어, 가로 세로 28px의 작은 이미지가 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/resize_setting/before_resize.png)  
+
+
+
+전체 크기 조정 설정을 클릭하면, 아래와 같은 설정 창이 열립니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/resizing_the_whole_image.png)  
-  
+
+'전체 크기 조정'의 초기값은 원본 이미지 파일의 크기입니다. 
+
+
+원하는 너비, 높이를 설정하고 확인 버튼을 누르면,
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/resize_setting/check_resize_button.png)  
+
+
+업로드 창에서, 변화된 크기의 이미지를 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/resize_setting/after_resize.png)  
+
+
+업로드 하게 되면, 이미지는 크기가 변화된 상태로 저장됩니다. 
+
+\* 주의) 크기 조정이 되더라도 이미지 해상도는 변하지 않으므로, 확대 시 이미지가 흐릿하게 보일 수 있습니다.
 
 
 ### 파일 이름 규칙 변경 
