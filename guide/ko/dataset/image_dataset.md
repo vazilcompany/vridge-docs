@@ -513,7 +513,25 @@ crop 0.3
 
 
 
+#### 회전(rotation)
 
+이미지를 특정 각도로 회전시키는 것을 의미하며, 
+
+회전은 일반적으로 이미지의 중심을 기준으로 수행되며, 회전 각도는 0도에서 +90도 사이로 설정됩니다. 
+
+이렇게 조절함으로써, 원본 이미지를 다양한 각도로 회전시켜 새로운 학습 샘플을 생성할 수 있습니다. 
+
+이는 모델이 다양한 방향에서 객체를 인식하는 능력을 향상시키는 데 도움이 됩니다
+
+
+before rotation
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/rotation/rotation_0.png)  
+
+
+after rotation 45도
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/rotation/rotation_1.png)  
 
 
 
