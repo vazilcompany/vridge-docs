@@ -277,13 +277,13 @@
 
 ### 앨범으로 보기 
 
-이미지들을 '앨범'형태로 보고 싶은 경우, 오른쪽 상단의 '앨범으로 보기'버튼을 클릭하시면 
+이미지들을 '앨범'형태로 보고 싶은 경우, 오른쪽 상단의 '앨범형' 버튼을 클릭하시면 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/album_1.png)  
 
 
 
-아래와 같은 앨범형태로 이미지 데이터를 볼 수 있습니다. 
+아래와 같은 앨범 형태로 이미지 데이터를 볼 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/album_2.png)  
 
@@ -296,6 +296,8 @@
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/filtering.png)  
+
+
 
   
 
@@ -330,12 +332,16 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/download_file.png)  
 
+'다운로드' 버튼 클릭 시, 이미지 파일이 다운로드 됩니다. 
+
 
 #### 삭제 
 
 파일 삭제를 할 수 있는 창이 나옵니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_list/right_click/delete_image.png)  
+
+\* 주의. '삭제' 버튼 클릭 시, 별도의 확인 창 없이, 곧바로 파일이 삭제됩니다. 
 
 
 
@@ -397,14 +403,46 @@
 
 ### 전처리 설정 
 
-데이터셋을 만들 떄, 이미지에 전처리 설정을 할 수 있습니다.
+데이터셋을 만들 때, 이미지에 전처리 설정을 할 수 있습니다.
 
-가능한 설정에는 리사이즈, 그레이스케일링 등이 있습니다. 
+가능한 설정에는 리사이즈, 그레이 스케일링 등이 있습니다. 
 
 리사이즈 옵션을 조정하면, 바뀐 이미지를 바로 볼 수 있습니다. 
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/preprocessing_setting.png)  
+
+
+#### 그레이 스케일링
+
+그레이 스케일링은 각 픽셀의 값이 빛의 양을 나타내는 하나의 샘플인 이미지를 가리키며, 이는 오직 광도의 정보만을 전달합니다. 
+
+이는 색상(rgb 채널) 정보가 전달되지 않는다는 것을 의미하며, 결과적으로 이미지가 흑백으로 변환됩니다.
+
+그레이 스케일링의 주요 장점 중 하나는 계산 효율성입니다. 색상 정보를 제거함으로써, 데이터의 복잡성이 줄어들고 처리 속도가 빨라집니다. 
+
+또한, 그레이 스케일링은 특정 애플리케이션에서 더 나은 결과를 가져올 수 있습니다. 
+
+예를 들어, 텍스트 인식이나 얼굴 인식과 같은 작업에서는 색상 정보가 중요하지 않을 수 있습니다.
+
+그러나 주의해야 할 점은, 색상 정보가 중요한 경우에는 그레이 스케일링을 사용하면 모델의 성능이 감소할 수 있다는 것입니다. 
+
+따라서, 그레이 스케일링의 사용은 문제의 특성과 요구 사항에 따라 달라집니다.
+
+
+
+before 그레이 스케일링 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/gray_scale/gray_scale_1.png) 
+
+
+after 그레이 스케일링
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/gray_scale/gray_scale_2.png) 
+
+
 
 
 ### 증강 설정 
@@ -414,6 +452,10 @@
 가능한 증강 옵션에는 밝기 조정, 자르기, 회전, 반전(상, 하, 좌, 우)등이 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/augmented_setting.png)  
+
+
+
+
 
 
 ### 상세 정보
