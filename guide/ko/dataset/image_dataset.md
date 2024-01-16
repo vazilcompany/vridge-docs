@@ -454,6 +454,52 @@ after 그레이 스케일링
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/augmented_setting.png)  
 
 
+#### 밝기(brightness) 조정
+
+데이터 증강의 한 가지 방법으로, 이미지의 밝기를 조장이 있습니다. 
+
+이는 이미지의 밝기 수준을 조정하여 다양한 조명 조건에서의 모델의 견고성을 향상시키는 데 도움이 될 수 있습니다.
+
+밝기 조정의 정도는 일반적으로 0.1에서 2.0 사이의 범위에서 설정할 수 있습니다. 
+
+이 값이 0에 가까울수록 이미지는 점점 어두워지며, 반대로 이 값이 1.0을 초과하면 이미지는 점점 밝아집니다. 
+
+이렇게 함으로써, 우리는 동일한 이미지에 대해 다양한 밝기 수준을 가진 새로운 학습 샘플을 생성할 수 있습니다. 
+
+이는 모델이 다양한 조명 조건에 대해 더 잘 일반화되도록 돕습니다.
+
+
+
+다음과 같이 데이터셋 생성 창에서 밝기를 조정할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness)  
+
+
+
+
+밝기 조정 전 이미지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness/brightness_0.png)  
+
+
+
+밝기 0.1 이미지 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness/brightness_1.png)  
+
+
+
+밝기 2.0 이미지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness/brightness_2.png)  
+
+
+
+
+
+
+
+
+
 
 
 
