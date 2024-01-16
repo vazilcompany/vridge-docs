@@ -489,6 +489,28 @@ after 그레이 스케일링
 
 
 
+#### 자르기(crop)
+
+특정 부분을 잘라내는 작업을 crop이라고 말합니다.
+
+“crop” 작업의 정도는 0과 1 사이의 값으로 설정됩니다. 이 값이 0에 가까울수록 이미지의 크기는 거의 변하지 않으며, 반대로 이 값이 1에 가까울수록 이미지의 크기는 크게 줄어듭니다. 
+
+이렇게 조절함으로써, 원본 이미지의 다양한 부분을 강조하거나 제거하여 새로운 학습 샘플을 생성할 수 있습니다. 
+
+이는 모델이 다양한 시나리오에 대해 더 잘 일반화되도록 돕습니다.
+
+
+
+before ceop
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/crop/crop_0.png)  
+
+
+crop 0.3
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/crop/crop_1.png)  
+
+
 
 
 
