@@ -36,7 +36,7 @@
   
 
 폴더 추가
------
+------
 
 
 '폴더 선택' 버튼을 눌러 폴더 단위로 이미지를 업로드할 수 있습니다.
@@ -124,7 +124,23 @@ zip파일 선택 이미지
 
 ### 태그 추가 
 
+업로드 설정 버튼에서 '태그 추가' 버튼을 클릭하면 아래와 같은 창이 열립니다. 
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/upload_setting_add_tag.png)  
+
+
+
+이미지를 식별할 수 있는 태그 문구를 적고, 추가 버튼을 클릭하면, 업로드시 태그를 확일 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/tag_setting_1.png)  
+
+
+업로드가 끝난 후, 이미지에 추가된 태그를 확인 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/tag_setting_2.png)  
+
+
+
 
 
 ### 색상 필터 변경 
