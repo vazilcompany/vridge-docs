@@ -262,16 +262,31 @@
 ------
 
 
-업로드된 이미지의 이름, 분류, 크기, 생성 날짜를 확인할 수 있습니다.
+업로드된 이미지의 이름, 라벨(어노테이션), 크기, 생성일 등을 확인할 수 있습니다.
 
   
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_data_management.png)  
 
 
-업로드된 이미지 개수와 파일 크기를 확인할 수 있습니다. 
+오른쪽 상단에서, 업로드된 이미지의 총개수와 총 크기를 확인할 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/image_dataset_08.png)  
+
+
+
+### 앨범으로 보기 
+
+이미지들을 '앨범'형태로 보고 싶은 경우, 오른쪽 상단의 '앨범으로 보기'버튼을 클릭하시면 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/album_1.png)  
+
+
+
+아래와 같은 앨범형태로 이미지 데이터를 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/album_2.png)  
+
 
 
 
