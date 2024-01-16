@@ -20,9 +20,9 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/file_upload_button.png)  
 
 
-이미지 업로드 화면 
+파일 업로드 버튼을 클릭하면, 이미지 업로드 화면이 나옵니다. 
   
-
+이미지 업로드 창
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/upload_dialog.png)  
 
 
@@ -57,10 +57,37 @@
 업로드 설정 
 ------
 
-업로드시 라벨, 태그, 색상, 크기, 파일 이름, 
+업로드 시 라벨, 태그, 색상, 크기, 파일 이름 설정을 할 수 있습니다. 
+
+업로드 설정 버튼
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/upload_option_button.png)  
+
+
+학습 타입에 따라 업로드 설정이 다릅니다. 
+
+
+'이미지 분류' 업로드 옵션 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/classification_upload_option.png)  
+
+
+
+'이미지 객체 탐지' 업로드 옵션 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/object_detection_upload_option.png)  
+
+
+
 
 
 ### 라벨 설정 
+
+이미지 분류 타입일 경우, 이미지 파일 하나에 하나의 라벨을 기본적으로 갖습니다. 
+
+그렇기에 이미지 업로드시 파일에 대한 라벨링이 가능합니다. 
+
+
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/upload_setting_label.png)  
 
