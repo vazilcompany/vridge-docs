@@ -472,7 +472,7 @@ after 그레이 스케일링
 
 다음과 같이 데이터셋 생성 창에서 밝기를 조정할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/brightness.png)  
 
 
 
