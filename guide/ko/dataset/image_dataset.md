@@ -53,6 +53,36 @@
 
 
 
+압축 파일 업로드 
+------
+
+
+'압축 파일 선택'버튼을 눌러 zip 형식으로 압축된 이미지를 업로드 할 수 있습니다. 
+열린 파일 탐색창의 압축 폴더를 클릭하거나, 점선 내부 영역으로 드래그하여 첨부할 수 있습니다. 
+
+zip파일 선택 이미지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file.png)  
+
+
+
+압축 파일안에 폴더가 있는 경우, 제일 하위의 폴더까지 내려가 모든 이미지 파일을 가져 옵니다.
+
+예를 들어 sample.zip 파일의 구조가 아래 이미지와 같이, 압축 파일안의 폴더, 폴더 안의 이미지 파일들이 있다면, 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file_structure_1.png)  
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file_structure_2.png)  
+
+
+
+업로드 창에서는 폴더 제일 아래의 이미지들이 업로드 됩니다. 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file_upload_images.png)  
+
+
   
 업로드 설정 
 ------
