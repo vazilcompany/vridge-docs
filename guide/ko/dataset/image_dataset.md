@@ -535,6 +535,42 @@ after rotation 45도
 
 
 
+#### 뒤집기(flip)
+
+"이미지 증강(augmentation)"의 한 방법으로 "뒤집기(flip)"라는 작업이 있습니다. 
+
+이는 이미지를 수평(horizon) 또는 수직(vertical) 방향으로 뒤집는 것을 의미하며, 이를 통해 모델이 다양한 방향에서 객체를 인식하는 능력을 향상시킬 수 있습니다.
+
+수평 뒤집기(Horizontal Flip): 이미지를 수평축을 기준으로 뒤집습니다. 즉, 이미지의 왼쪽과 오른쪽을 바꿉니다. 이는 거울에 비친 것처럼 이미지를 반전시킵니다.
+
+수직 뒤집기(Vertical Flip): 이미지를 수직축을 기준으로 뒤집습니다. 즉, 이미지의 상단과 하단을 바꿉니다.
+
+이러한 뒤집기 작업은 이미지 데이터셋의 다양성을 증가시키고, 모델이 이미지의 방향에 덜 민감하게 만들어 일반화 성능을 향상시키는 데 도움이 됩니다. 
+
+그러나 주의해야 할 점은, 뒤집기가 문제의 특성에 따라 적절하지 않을 수 있다는 것입니다. 
+
+예를 들어, 텍스트 인식이나 자연의 방향성을 가진 이미지(예: 선인장의 성장 방향)에서는 뒤집기가 부적절할 수 있습니다
+
+
+
+before horizon 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/flip/horizon_0.png)  
+
+after horizon
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/flip/horizon_1.png)  
+
+
+
+before vertical
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/flip/vertical_0.png)  
+
+
+after vertical 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/flip/vertical_1.png)  
 
 
 
