@@ -178,13 +178,46 @@
 
 업로드 하게 되면, 이미지는 크기가 변화된 상태로 저장됩니다. 
 
-\* 주의) 크기 조정이 되더라도 이미지 해상도는 변하지 않으므로, 확대 시 이미지가 흐릿하게 보일 수 있습니다.
+\* 주의, 크기 조정이 되더라도 이미지 해상도는 변하지 않으므로, 확대 시 이미지가 흐릿하게 보일 수 있습니다.
 
 
 ### 파일 이름 규칙 변경 
 
+'파일이름 규칙변경' 버튼을 클릭하면 아래와 같은 창이 열립니다.  
+
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/change_file_naming_conventions.png)  
   
+
+먼저, 이름 규칙의 경우 파일의 이름 앞에 붙일 prefix를 정하는 곳입니다. 
+
+예를 들어, 아래의 이미지와 같이, 이름 규칙 칸에 'mnist' 적게 되면, 예시에서 볼 수 있듯이, 파일명이 'mnist'로 시작하게 됩니다.   
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/file_name_rule/file_name_rule_2.png)  
+
+
+'순번 숫자 단위'는 이름 규칙 뒤에 붙을 숫자의 단위를 의미합니다. 
+
+예를 들어, 아래의 이미지와 같이 순번 숫자 단위에 4를 입력한다면, 
+
+예시에서 볼 수 있듯이, 파일명의 끝은 4자리 숫자로, 하나씩 증가하게 됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/file_name_rule/file_name_rule_3.png)  
+
+
+
+종합적으로,  이름 규칙에 'mnist', 순번 숫자 단위에 '3'을 적게된다면 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/file_name_rule/file_name_rule_1.png)  
+
+
+
+업로드 이후 파일들의 이름은 규칙과 같이 아래처럼 변하게 됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/file_name_rule/file_name_rule_4.png)  
+
+
+
+
 
 
 비우기
