@@ -243,8 +243,13 @@
 
 두 번째, 일괄적으로 모든 파일들을 내리고 싶은 경우, 
 
-업로드 설정 버튼을 누른 뒤, 비우기 버튼을 클릭하면, 일괄적으로 모든 파일들을 내릴 수 있습니다. 
+업로드 설정 버튼을 누른 뒤, 비우기 버튼을 클릭하면, 
 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/clear/clear_button.png)  
+
+
+
+일괄적으로 모든 파일들을 내릴 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/empty.png)  
 
