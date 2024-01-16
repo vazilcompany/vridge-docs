@@ -30,7 +30,7 @@
 
 '파일 선택' 란을 클릭하거나, 파일을 드래그하여 첨부할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/file_upload.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/image_upload_dialog_big_0.png)  
   
 
   
@@ -60,7 +60,6 @@
 '압축 파일 선택'버튼을 눌러 zip 형식으로 압축된 이미지를 업로드 할 수 있습니다. 
 열린 파일 탐색창의 압축 폴더를 클릭하거나, 점선 내부 영역으로 드래그하여 첨부할 수 있습니다. 
 
-zip파일 선택 이미지 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/zip_file.png)  
 
