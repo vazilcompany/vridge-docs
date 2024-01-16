@@ -136,7 +136,7 @@
 
 업로드가 끝난 후, 이미지에 추가된 태그를 확인 할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/tag_setting_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/upload/image/upload_setting/tag_setting_2_1.png)  
 
 
 
