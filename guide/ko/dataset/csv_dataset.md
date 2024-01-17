@@ -83,8 +83,6 @@
 
 (\* 현재 연결 가능한 DB 목록 : MariaDB, MongoDB)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/data_manage/table/upload/select_database_dialog.png)  
-
 
 1. 어떤 데이터베이스에서 데이터를 가져올 것인지 선택합니다.
 
