@@ -163,13 +163,13 @@
 
 
 
-1. 원천 데이터를 선택합니다. 앞서 업로드했던 .csv 형식의 파일들이 선택 가능합니다.
+### 1. 원천 데이터를 선택합니다. 앞서 업로드했던 .csv 형식의 파일들이 선택 가능합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/table/select_source_data.png)
 
 
 
-2. 학습 데이터 분할
+### 2. 학습 데이터 분할
 
 데이터셋을 학습, 검증, 테스트 데이터셋으로 분할합니다.
 
@@ -182,7 +182,7 @@
 
 
 
-3. 컬럼 설정
+### 3. 컬럼 설정
 
 선택한 .csv 파일에서 컬럼 설정을 진행합니다. 
 
@@ -244,18 +244,16 @@
 
 
 
-4. 상세 정보
+### 4. 상세 정보
 
 데이터셋을 식별할 수 있는 태그를 지정합니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/table/set_tag_name_and_creation_button.png)
 
 
-오른쪽 하단의 '생성 버튼'을 클릭하면, 설정한 대로 새로운 데이터셋을 생성합니다.
 
 
-
-데이터셋 생성 버튼을 클릭하면, 곧바로 데이터셋 페이지로 이동합니다. 
+### 5. 오른쪽 하단의 '생성' 버튼을 클릭하면, 곧바로 데이터셋 페이지로 이동합니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/table/creating_dataset.png)
 
