@@ -135,6 +135,12 @@
 이후로는, 앞에서 설명드렸던 파일 선택 업로드와 같은 방법으로, 데이터를 업로드할 수 있습니다. 
 
 
+데이터베이스 데이터 업로드 후, 데이터 관리 페이지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/data_manage/table/upload/data_manage_index_after_upload_database.png)  
+
+
+
   
 
 
