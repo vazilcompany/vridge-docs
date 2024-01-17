@@ -578,15 +578,164 @@ after vertical
 
 만들어진 데이터셋을 구분할 태그를 설정할 수 있습니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/detail_info.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/dataset_tag_setting.png)  
 
 
 ### 데이터셋 생성 버튼 
 
+데이터셋 생성 창 오른쪽 하단에 있는 '생성' 버튼을 클릭하면, 데이터셋이 생성됩니다.  
 
-### 데이터 생성 후 페이지 이동 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_dialog/image/dataset_generate_button.png)  
 
-### 데이터셋 페이지에서 확인 할 수 있는 것들에 대한 설명 
+
+
+'데이터셋 생성'을 클릭하면, 데이터셋이 생성되고, 데이터셋 페이지로 이동됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/dataset_index_gernerating.png)  
+
+
+
+
+데이터셋
+------
+
+데이터셋이 생성된 후, 데이터셋 인덱스 페이지입니다. 
+
+데이터셋의 이름, 버전, 생성일, 데이터 분할 비율 등의 상세한 정보를 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/dataset_index_after_gernerate.png) 
+
+하나씩 알아보겠습니다. 
+
+
+
+### 이름 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/dataset_version_name.png)  
+
+데이터셋의 버전, 이름(데이터셋 생성 창에서 설정했던 태그) 등을 볼 수 있습니다.  
+
+
+### 상세 정보
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/detail_info.png)  
+
+데이터셋의 상세 정보를 볼 수 있습니다. 
+
+버전, 이름, 데이터 개수, 데이터 크기, 학습 유형, 생성 시간, 
+
+학습, 검증, 테스트 데이터 수 등을 볼 수 있습니다.  
+
+
+
+### 학습 데이터 분할 비율 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/train_data_split_ratio.png)  
+
+학습, 검증, 테스트 데이터셋이 어떻게 분할되었는지 한눈에 볼 수 있습니다. 
+
+왼쪽 도넛 차트는 각 데이터셋의 분할 비율을 보여주며, 
+
+오른쪽은 각 학습, 검증, 테스트 세트가 어떻게 구성되었는지 상세하게 나타냅니다. 
+
+라벨별 분할 개수와 구성 이미지 등을 통해 데이터의 분포를 쉽게 이해할 수 있습니다.
+
+
+
+
+### 전처리 설정 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/preprocessing_setting.png)  
+
+데이터셋 생성 시 설정했던, 전처리 설정에 대한 정보를 볼 수 있습니다. 
+
+
+
+### 증강 설정 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/augementation_setting.png)  
+
+데이터셋 생성 시 설정했던, 증강 설정에 대한 정보를 볼 수 있습니다. 
+
+
+
+### 새로운 모델 학습
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/go_to_training_button.png)  
+
+'새로운 모델 학습' 버튼을 클릭하면, 현재 데이터셋을 사용하여 학습 창이 즉시 열립니다. 
+
+학습에 대한 더 자세한 정보는 ‘학습’ 섹션에서 찾을 수 있습니다
+
+
+
+
+### 버전 목록 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/version_list.png)  
+
+데이터셋의 버전 목록을 확인할 수 있으며, 각 버전과 그 생성 시간을 볼 수 있습니다.
+
+
+
+### 다운로드 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/dataset_download_button.png)  
+
+'다운로드' 버튼 클릭 시, 데이터셋을 바로 다운로드 할 수 있습니다. 
+
+
+다운로드된 데이터셋은 zip 형식으로 압축되어 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/downloaded_dataset_zip.png)  
+
+압축을 풀어주면, 학습, 검증, 테스트 폴더가 보입니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/extracted_dataset.png)
+
+각 폴더 안에는, 라벨별로 구분된 폴더가 보입니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/extracted_dataset_2.png)
+
+
+라벨 폴더 안에는 이미지 파일과 어노테이션 파일이 들어가 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/extracted_dataset_3.png)
+
+
+xml 형식의 어노테이션 파일을 열게 되면 다음과 같은 구조를 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/annotation.png)
+
+
+브릿지에서는 기본적으로 Pascal VOC 형식으로 주석(annotation)에 관한 정보를 저장합니다. 
+
+#### Pascal VOC
+
+Pascal VOC는 이미지 주석을 저장하기 위한 형식으로, 객체 탐지 데이터셋에 대한 주석을 저장하고, 다양한 주석 편집기와 도구에서 사용됩니다. 
+
+이 형식은 원래 Visual Object Challenge (VOC)를 위해 만들어졌지만, 이제는 객체 탐지 레이블의 일반적인 교환 형식이 되었습니다.
+
+Pascal VOC 형식에서는 각 이미지에 대해 이미지 세부 정보, 바운딩 박스 세부 정보, 클래스, 회전 및 기타 데이터를 포함하는 XML 주석 파일이 있습니다
+
+
+
+### 데이터셋 삭제 
+
+데이터 셋을 삭제하고 싶을 때, 오른쪽 하단의 '삭제' 버튼을 클릭합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/dataset_delete_button.png)  
+
+'삭제' 버튼 클릭 시, 확인 창이 나오게 되고, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/delete_confirm_dialog.png)  
+
+'삭제' 버튼을 다시 한번 클릭하면, 곧바로 데이터셋이 삭제됩니다. 
+
+
+
+
+
 
 
 
