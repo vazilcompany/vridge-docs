@@ -319,6 +319,32 @@
 
 ### 다운로드 
 
+'다운로드' 버튼 클릭 시, 데이터셋을 바로 다운로드 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/download/dataset_download_button.png)  
+
+
+
+다운로드된 데이터셋은 zip 형식으로 압축되어 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/download_dataset_1.png)  
+
+
+압축 파일 내부에는 학습, 검증, 테스트 파일이 .csv 형식으로 저장되어 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/download_dataset_2.png)  
+
+
+.csv 파일을 열어 보면 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/download_dataset_3.png)  
+
+데이터셋은 설정한 변환 설정에 따라 변경되어 저장됩니다. 
+
+'Type' 컬럼은 '원-핫 인코딩'이 적용되어 'Type_Cat', 'Type_Dog'와 같이 원래 컬럼 이름에 값이 추가된 형태로 변환되었습니다. 
+
+'AdoptionSpeed' 컬럼은 '라벨 인코딩'이 적용되어 컬럼 수는 그대로 유지되고 값들만 숫자 형태로 변환되었습니다.
+
 
 
 
