@@ -269,6 +269,75 @@
 데이터셋 관리 페이지 
 ------
 
+생성된 데이터셋을 확인할 수 있는 페이지입니다. 
+
+데이터셋의 버전, 이름, 상세 정보, 컬럼 설정 등의 정보 확인, 다운로드, 삭제 등이 가능합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/dataset_index.png)
+
+
+### 상세 정보 
+
+데이터셋의 버전, 이름, 데이터 개수, 유형, 생성 시간 등을 볼 수 있습니다. 
+
+학습, 검증, 테스트 데이터의 수는 컬럼의 줄(row)을 기준으로 계산됩니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/detail_info.png)
+
+
+
+### 컬럼 설정 
+
+데이터셋 생성시 설정했던 컬럼 설정 정보를 볼 수 있습니다. 
+
+컬럼 이름, 유형(데이터 타입), 빈값 처리, 변환, 라벨링 그룹(변환시 생긴 라벨과 원본 값)을 볼 수 있습니다. 
+
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/table/column_setting.png)
+
+
+
+
+### 새로운 모델 학습
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/go_to_training_button.png)  
+
+'새로운 모델 학습' 버튼을 클릭하면, 현재 데이터셋을 사용하여 학습 창이 즉시 열립니다. 
+
+학습에 대한 더 자세한 정보는 ‘학습’ 섹션에서 찾을 수 있습니다
+
+
+
+
+### 버전 목록 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/version_list.png)  
+
+데이터셋의 버전 목록을 확인할 수 있으며, 각 버전과 그 생성 시간을 볼 수 있습니다.
+
+
+
+### 다운로드 
+
+
+
+
+
+### 데이터셋 삭제 
+
+데이터 셋을 삭제하고 싶을 때, 오른쪽 하단의 '삭제' 버튼을 클릭합니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/dataset_delete_button.png)  
+
+'삭제' 버튼 클릭 시, 확인 창이 나오게 되고, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/dataset_index/image/delete_confirm_dialog.png)  
+
+'삭제' 버튼을 다시 한번 클릭하면, 곧바로 데이터셋이 삭제됩니다. 
+
+
+
+
 
 
 
