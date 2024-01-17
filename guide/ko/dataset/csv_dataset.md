@@ -24,12 +24,12 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/data_manage/table/upload/file_upload_dialog.png)  
 
 
-데이터를 추가 하는 방법에 2가지가 있습니다. 
+데이터를 추가하는 방법에 2가지가 있습니다. 
 
-첫째, '파일 선택' 란을 클릭하거나, 파일을 드래그하여 업로드 할 수 있습니다. 
+첫째, '파일 선택' 란을 클릭하거나, 파일을 드래그하여 업로드할 수 있습니다. 
 
 
-둘쩨, '데이터베이스 선택' 란을 클릭하여, 외부 데이터베이스에 있는 데이터를 가져 올 수 있습니다.
+둘쩨, '데이터베이스 선택' 란을 클릭하여, 외부 데이터베이스에 있는 데이터를 가져올 수 있습니다.
 
 
 
@@ -41,8 +41,7 @@
 
 지원하는 형식에 맞는 파일을 선택 후, 업로드할 수 있습니다. 
 
-
-파일을 선택하시면, 업로드 창에 선택한 파일의 내용이 보입니다. 
+파일을 선택하시면, 업로드 창에 선택한 파일의 데이터를 표 형식으로 확인할 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/data_manage/table/upload/upload_dialog_after_select_csv_file.png)  
 
@@ -51,7 +50,7 @@
 
 
 
-데이터를 확인하신 후, 업로드 하려면, 업로드 버튼을 클릭합니다. 
+데이터를 확인한 후 업로드하려면 왼쪽 하단의 ‘업로드’ 버튼을 클릭하십시오.
 
 
 '업로드 확인' 창이 열립니다. 
