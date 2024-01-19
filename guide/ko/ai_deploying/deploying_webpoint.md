@@ -74,7 +74,11 @@
 웹 포인트 정보
 ------
 
-웹 포인트 목록에서 '웹 포인트' 아이디를 클릭하면, 개별 포인트에 대한 세부 내용을 볼 수 있는 페이지로 이동합니다. 
+웹 포인트 목록에서 '웹 포인트' 아이디를 클릭하면, 개별 포인트에 대한 세부 내용을 볼 수 있는 페이지로 이동합니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploy_webpoint/go_to_point_detail.png)  
+
+
 
 포인트 정보, 포인트 AI 모델 (현재 배포 중인), 배포 목록 등을 볼 수 있습니다.  
 
