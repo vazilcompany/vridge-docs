@@ -290,7 +290,28 @@
 
 모델이 배포되어 있는 포인트가 없을 경우, 먼저 모델을 배포해 주시기 바랍니다. 
 
-무델 배포는 사용자 가이드의 '모델 배포' 섹션을 참고해 주시기 바랍니다. 
+모델 배포는 사용자 가이드의 '모델 배포' 섹션을 참고해 주시기 바랍니다. 
+
+
+
+어시스트 AI를 설정한 후에는 라벨링 공간의 작업 도구 바에서 ‘어시스트 AI’ 아이콘의 색이 파란색으로 변경되는 것을 확인할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/autolabeling/autolabeling_5.png)
+
+
+
+이 아이콘을 클릭하면, 업데이트된 어시스트 AI 설정 창이 표시됩니다. 
+
+여기에는 프로젝트 설정에서 지정한 포인트와 모델 등의 정보가 표시됩니다. 
+
+또한, 활성화 또는 비활성화 버튼을 클릭하여 어시스트 AI의 활성 여부를 변경할 수 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/autolabeling/autolabeling_6.png)
+
+
+
+
+
 
 
 
@@ -298,13 +319,29 @@
 자동 라벨링 
 ------
 
+어시스트 AI를 설정하고 활성화한 후에는 ‘자동 라벨링’ 기능을 사용할 수 있습니다. 
+
+이 기능은 사전에 학습된 모델을 사용하여 라벨링 작업을 수행합니다. 
+
+어시스트 AI에 설정된 모델을 통해 라벨링이 진행됩니다.
+
+
+라벨링 공간의 우측 상단에서 ‘자동 라벨링’ 버튼을 확인할 수 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/autolabeling/autolabeling_7_autolabeling_button.png)
+
+
+‘자동 라벨링’ 버튼을 클릭하면 새 창이 나타납니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/autolabeling/autolabeling_4.png)
+
+
+‘시작’ 버튼을 클릭하면 자동 라벨링이 시작됩니다
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/autolabeling/autolabeling_8.png)
 
 
 
-
-
-
-  
 
   
 
