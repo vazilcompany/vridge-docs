@@ -2,13 +2,18 @@
 
   
 
-프로젝트 사이드 메뉴에서 '성장 및 배포 → 웹 포인트'로 이동합니다.
+조직 사이드 메뉴 → 서비스 → 웹 포인트 메뉴로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/web_points_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploy_webpoint/go_to_webpoint.png)  
 
-  
 
-  
+
+웹 포인트 메뉴 입니다. 
+
+웹 포인트 목록을 볼 수 있고, 새로운 웹 포인트를 생성할 수 있습니다.   
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploy_webpoint/webpoint_index_1.png)  
+
 
 오른쪽 상단의 '웹 포인트 등록' 버튼을 클릭해 새로운 웹 포인트를 추가할 수 있고,
 
@@ -18,6 +23,5 @@
 
 서버는 RUNNING, STOPPED, PENDING, STOPPING, SHUTTING-DOWN, TERMINATED 중 하나의 상태를 갖습니다.
 
-엔드포인트는 웹 포인트를 API로 활용할 때 사용됩니다.
+모델은 현재 포인트에 배포중인 모델을 보여줍니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/web_points_02.png)  
