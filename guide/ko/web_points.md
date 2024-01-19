@@ -12,7 +12,7 @@
 
 웹 포인트 목록을 볼 수 있고, 새로운 웹 포인트를 생성할 수 있습니다.   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploy_webpoint/webpoint_index_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploy_webpoint/webpoint_index_1_1.png)  
 
 
 오른쪽 상단의 '웹 포인트 등록' 버튼을 클릭해 새로운 웹 포인트를 추가할 수 있고,
