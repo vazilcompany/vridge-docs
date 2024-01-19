@@ -59,9 +59,6 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/training_index/training_detail.png)  
 
 
-
-
-
-
+학습 상세 정보에 대한 자세한 설명은 유형별 학습 -> 학습 결과 및 모델 평가 섹션을 참고해 주시기 바랍니다. 
 
 
