@@ -26,6 +26,16 @@
 따로 저장을 하지 않아도, 자동 저장이 됩니다. 
 
 
+
+라벨을 변경하고 싶은 경우, 라벨 클래스에서 라벨을 클릭하거나, 
+
+라벨링 후 나오는 라벨을 내려 라벨을 변경 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/object_detection/change_label.png)  
+
+
+
+
 라벨 수정이나, 작업 도구 바에 대한 설명은 '인터페이스 설명'을 참고해 주시기 바랍니다. 
 
 
