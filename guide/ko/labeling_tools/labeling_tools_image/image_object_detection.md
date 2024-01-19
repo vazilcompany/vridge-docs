@@ -23,4 +23,9 @@
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/object_detection/labeling_object_detection-ezgif.com-optimize.gif)  
 
+따로 저장을 하지 않아도, 자동 저장이 됩니다. 
+
+
 라벨 수정이나, 작업 도구 바에 대한 설명은 '인터페이스 설명'을 참고해 주시기 바랍니다. 
+
+
