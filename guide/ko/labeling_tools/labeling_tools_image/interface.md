@@ -343,50 +343,130 @@
 
 
 
-  
-
-작업 상태 바
--------
-
-
-
-라벨링 후 저장 버튼 혹은 Ctrl+S를 눌러 저장하며
-
-데이터셋을 PASCAL VOC 혹은 COCO DATASET으로 내보내기가 가능합니다.
-
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/interface_04.png)  
-
-  
-
-  
-
 작업 테이블
 ------
 
+### 상세 정보
 
-작업할 데이터와 라벨을 선택하며, 작업 중인 멤버를 확인할 수 있습니다.
+오른쪽 상단 상세 정보를 클릭하면, 라벨링 기록에 대한 상세한 정보를 볼 수 있습니다. 
 
-  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/interface_4_detail_info.png)
 
-현재 프로젝트의 라벨 목록으로,
 
-작업할 라벨을 선택하거나 추가•삭제 등의 관리를 할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/interface_05.png)  
+느낌표 아이콘에 마우스 포인트를 올려놓으면, 라벨에 대한 상세 정보를 볼 수 있습니다. 
 
-  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_1.png)
 
-해당 프로젝트에서 현재 라벨링 작업 중인 멤버 목록입니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/interface_06.png)  
 
-  
+숨김 아이콘을 클릭하면, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_2.png)
+
+
+라벨이 숨겨집니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_3.png)
+
+
+휴지통 아이콘을 클릭하면, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_4.png)
+
+
+라벨 삭제를 재확인하는 창이 나옵니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_5.png)
+
+삭제 버튼을 누르면,
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/detail_info/labeling_tool_detail_info_6.png)
+
+
+라벨이 삭제된 것을 확인할 수 있습니다. 
+
+
+
+### 작업 기록 
+
+오른쪽 상단 작업 기록을 클릭하면, 진행되었던 직업들에 대한 기록을 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/interface_5_work_history.png)
+
+
+느낌표 아이콘을 클릭하면, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_2.png)
+
+
+작업 기록에 대한 상세 정보를 볼 수 있습니다.  
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_3.png)
+
+
+되돌리기 아이콘을 클릭하면, 되돌림 여부를 확인하는 창이 나옵니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_4.png)
+
+
+되돌리기 전 이미지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_7.png)
+
+
+되돌리기 후 이미지 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_10.png)
+
+
+삭제 아이콘을 클릭하면, 되돌리기와 마찬가지로 라벨을 취소할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/work_history/interface_5_work_hostorypng_8.png)
+
+
+
+
+### 라벨 클래스 
+
+라벨을 변경, 관리할 수 있는 라벨 클래스 공간입니다. 
+
+
+라벨 클래스 바로 아래에 있는 라벨들을 클릭하면, 사각형 박스를 클릭 시 기본 라벨이 바뀌게 됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/label_class/label_class_1.png)
+
+
+
+라벨 관리 버튼을 클릭하면, 라벨 관리 창이 나옵니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/label_class/label_class_2.png)
+
+
+
+새로운 라벨을 추가하거나, 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/label_class/label_class_3.png)
+
+라벨 추가 완료 후 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/label_class/label_class_3_1.png)
+
+
+라벨 목록에 있는 라벨들을 클릭해, 기존 라벨을 수정할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/label_class/label_class_4.png)
+
+
+
+
+
+
+### 목록
 
 라벨링 되지 않은 데이터 목록(Todo)과 라벨링 된 데이터 목록(Done)입니다.
 
-목록에서 데이터를 선택해 새로운 라벨을 붙여줄 수도 있고, 수정하거나 삭제할 수도 있습니다.
+목록에서 데이터를 선택해 이동할 수 있습니다. 
 
 라벨링 작업은 실시간 동시 작업이 가능하며,
 
@@ -394,4 +474,37 @@
 
 이미 작업 중인 데이터를 선택할 경우 '이미 다른 멤버가 작업 중입니다.'라는 메세지가 나타납니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/interface_07.png)  
+라벨링이 완료된 데이터는 옅은 글씨로 보이게 됩니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/list/list_1.png)  
+
+
+
+필터링이 가능합니다. 
+
+'미작업만 보기' 버튼을 클릭하면, 미완료 작업만 필터링해 볼 수 있고, 
+
+필터 아이콘을 클릭하면 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/list/list_2.png)  
+
+새로운 창이 열립니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/interface_explanation/list/list_3.png)  
+
+라벨, 태그로 필터링 가능하며, 시간순 정렬을 설정할 수 있습니다. 
+
+
+
+
+### 작업자
+
+해당 프로젝트에서 현재 라벨링 작업 중인 멤버 목록입니다.
+
+작업 중인 멤버를 확인할 수 있습니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/interface_06.png)  
+
+
+
+
