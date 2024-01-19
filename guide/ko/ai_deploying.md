@@ -79,36 +79,3 @@
 
 
 
-
-
-
-
-
-
-
-일단 여기까지 
----------
-
-  
-
-  
-
-최근 배포 정보
---------
-
-
-현재 프로젝트에서 가장 최근에 배포된 모델의 정보를 보여줍니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/ai_deploying_03.png)  
-
-  
-
-  
-
-배포 히스토리
--------
-
-
-현재 프로젝트에서 배포된 모델들의 히스토리를 보여줍니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/ai_deploying_04.png)  
