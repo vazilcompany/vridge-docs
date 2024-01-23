@@ -53,13 +53,13 @@
 
 아래의 오늘/최근 7일/최근 30일/최근 90일/최근 1년 버튼으로 오늘 기준으로 이전 시간 범위를 간편하게 설정할 수 있습니다.
 
-취소 버튼을 클릭하여, 선택된 범위를 초기화 할 수 있습니다. 
+취소 버튼을 클릭하여, 선택된 범위를 초기화할 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_6.png)  
 
   
 
-선택버튼을 누르면 설정한 날짜로 통계 그래프가 표시됩니다.
+선택 버튼을 누르면 설정한 날짜로 통계 그래프가 표시됩니다.
 
   
 
@@ -77,13 +77,13 @@
 
   
 
-선택된 기간에서 추론한 총 추론수를 표시합니다.
+선택된 기간에서 추론한 총 추론 수를 표시합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_8.png)  
 
   
 
-선택된 기간의 전체 평균 예측율을 표시합니다.
+선택된 기간의 전체 평균 예측률을 표시합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_9.png)  
 
@@ -103,7 +103,7 @@
 
   
 
-시간별 평균 예측율을 그래프로 표시합니다.
+시간별 평균 예측률을 그래프로 표시합니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_12.png)  
 
@@ -121,7 +121,7 @@
 
 클래스별 판단율을 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_13.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_14.png)  
 
   
 
