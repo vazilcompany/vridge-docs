@@ -41,7 +41,7 @@
 
   
 
-등록이 끝나면 'RUNNING' 상태로 바뀌며, 서버를 사용할 수 있습니다.
+생성이 끝나면 'RUNNING' 상태로 바뀌며, 서버를 사용할 수 있습니다.
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_4.png)  
   
