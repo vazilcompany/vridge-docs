@@ -46,7 +46,7 @@
 실험실 우측의 '설정'에 대해 설명하겠습니다. 
 
 
-모델이 배포 되어 있는 경우, '변경' 버튼을 클릭하면, 테스트 하고자 하는 포인트와 모델을 수정할 수 있습니다. 
+모델이 배포되어 있는 경우, '변경' 버튼을 클릭하면, 테스트하고자 하는 포인트와 모델을 수정할 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_4.png)
 
@@ -71,17 +71,14 @@
 
 모델은 프로젝트 타입별로 구분되어 있습니다. 
 
-프로젝트 타입을 선택한 뒤, 배포하고자 하는 모델을 선택 후, 
-
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_7.png)
 
 
+프로젝트 타입을 선택한 뒤, 배포하고자 하는 모델을 선택 후, 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_8.png)
 
-저장 버튼을 클릭하면, 모델이 배포 됩니다. 
-
-
+저장 버튼을 클릭하면, 모델이 배포됩니다. 
 
 '저장' 버튼을 클릭하면, 프로젝트 유형에 맞는 모델 테스트 페이지가 변경됩니다. 
 
