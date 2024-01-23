@@ -105,7 +105,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_11.png)
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_12.png)  
 
 
   
@@ -116,7 +116,7 @@
 
 실행 버튼을 클릭하면 테스트가 진행됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_13.png)  
 
 
   
