@@ -2,23 +2,32 @@
 
 웹 포인트에서 추론 후 수집된 통계 데이터는 웹 포인트 → 사용자 추론 서버 포인트 → 통계 탭에서 확인할 수 있습니다.
 
-  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/go_to_statistics.png)  
+
+
+
+
+
+통계
+---------------------------
+
+상단에 프로젝트 선택 창, 기간 및 간격 선택, 요약 정보, 그래프(평균 추론시간, 평균 예측률, 추로 요청, 클래스별 예측 결과)등을 볼 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_1.png)  
+
+
 
 현재 웹 포인트의 모델 버전 별 통계 데이터 선택
 ---------------------------
 
 
-상단 모델 선택 창을 통해서 현재 웹 포인트를 통해 추론에 사용한 모든 모델 목록을 확인할 수 있습니다.
+상단 프로젝트 선택 창을 통해서 현재 웹 포인트를 통해 추론에 사용한 모든 프로젝트 목록을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_2.png)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_02.png)  
+선택 가능한 프로젝트 목록이 보입니다. 
 
-  
-
-모델을 변경하면 선택된 모델의 통계 데이터가 통계 대시보드에 표시됩니다.
-
-  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_3.png)  
 
   
 
@@ -30,13 +39,13 @@
 
 아래 패널을 통해 분/시간/일/주/월/연도 간격으로 그래프의 x축 시간 단위를 설정할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_4.png)  
 
   
 
 날짜 범위를 변경하기 위해 날짜 선택 버튼을 누릅니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_5.png)  
 
   
 
@@ -44,7 +53,9 @@
 
 아래의 오늘/최근 7일/최근 30일/최근 90일/최근 1년 버튼으로 오늘 기준으로 이전 시간 범위를 간편하게 설정할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_05.png)  
+취소 버튼을 클릭하여, 선택된 범위를 초기화 할 수 있습니다. 
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_6.png)  
 
   
 
@@ -60,41 +71,41 @@
 -------
 
 
-현재 웹 포인트에서 사용된 모델 버전 중에서 선택된 모델의 통계 및 집계 데이터를 그래프로 표시합니다.
+선택된 프로젝트의 웹 포인트에서 현재 통계 및 집계 데이터를 그래프로 표현합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_06.png)  
-
-  
-
-선택된 기간에서 추론한 라벨별 판단 횟수를 표시합니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_7.png)  
 
   
 
-선택된 기간의 전체 평균 판단율을 표시합니다.
+선택된 기간에서 추론한 총 추론수를 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_08.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_8.png)  
+
+  
+
+선택된 기간의 전체 평균 예측율을 표시합니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_9.png)  
 
   
 
 선택된 기간의 추론에 걸린 전체 평균 시간을 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_09.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_10.png)  
 
   
 
 시간별 평균 추론 시간 그래프를 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_10.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_11.png)  
 
   
 
   
 
-시간별 평균 판단율을 그래프로 표시합니다.
+시간별 평균 예측율을 그래프로 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_11.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_12.png)  
 
   
 
@@ -102,7 +113,7 @@
 
 시간 별 추론 요청 수를 그래프로 표시합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_12.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/delpoy_model_statistics/statistics_13.png)  
 
   
 
@@ -115,25 +126,3 @@
   
 
   
-
-  
-
-분류별 판단 결과 데이터 확인
-----------------
-
-
-\[선택\] 통계 수집 시 대상 데이터 업로드 옵션을 사용하면 통계 화면에서 실제 추론 대상이 된 데이터를 확인할 수 있습니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_14.png)  
-
-  
-
-라벨별 목록을 필터링합니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_15.png)  
-
-  
-
-해당 데이터 추론 판단율을 나타냅니다.
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_deploying/deploying_usage_statistics_16.png)  
