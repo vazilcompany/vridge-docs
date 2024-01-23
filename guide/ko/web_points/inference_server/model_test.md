@@ -2,12 +2,12 @@
 
 추론 서버에 현재 배포되어있는 모델을 테스트합니다.
 
-  
-
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_01.png)  
-
 
 웹 포인트 목록에서 테스트에 사용할 서버를 선택합니다.
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_1.png)  
+
+
 
   
 
