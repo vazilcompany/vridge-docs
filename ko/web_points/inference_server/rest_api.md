@@ -18,8 +18,7 @@
 
   
 
-요청 정보
------
+## 요청 정보
 
 
   
@@ -29,8 +28,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_03.png)  
 
 
-요청 변수
------
+## 요청 변수
 
 
   
@@ -42,8 +40,7 @@
 
   
 
-요청 결과
------
+## 요청 결과
 
 
 전송한 요청에 대한 결과값으로 반환받는 변수 목록입니다.
@@ -55,5 +52,4 @@
 
   
 
-구현 예제 (구현예정)
-------------
+## 구현 예제 (구현예정)

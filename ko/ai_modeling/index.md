@@ -5,8 +5,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/training_index/go_to_training.png)  
 
 
-학습 공간 설명
-------
+## 학습 공간 설명
 
 학습 공간에서는 새로운 모델 학습, 학습 상태 요약, 학습 히스토리를 볼 수 있습니다.  
 
@@ -16,8 +15,8 @@
 
   
 
-새 학습 시작
--------
+## 새 학습 시작
+
 
 
 학습 공간의 오른쪽 상단, '새로운 학습 모델' 버튼을 클릭하여 학습을 시작할 수 있습니다. 
@@ -36,8 +35,8 @@
 
   
 
-학습 히스토리 
-------
+## 학습 히스토리 
+
 
 학습에 대한 기록을 볼 수 있습니다. 
 

@@ -4,8 +4,7 @@
 
   
 
-결제 정보
------
+## 결제 정보
 
 
 현재 잔여 크레딧, 등록된 결제 수단, 마지막 결제일을 확인할 수 있습니다.
@@ -16,16 +15,14 @@
 
   
 
-사용 정보
------
+## 사용 정보
 
 
   
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/payments_03.png)  
 
-총 결제 예상 금액
-----------
+## 총 결제 예상 금액
 
 
   

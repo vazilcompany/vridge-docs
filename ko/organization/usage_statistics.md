@@ -3,8 +3,8 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/usage_statistics/move_to_statistics_button.png)  
 
 
-사용 통계 
-------
+## 사용 통계 
+
 조직의 월별 라벨링, 배포, 학습, 데이터셋 사용량을 볼 수 있습니다.
 
 
@@ -12,16 +12,16 @@
 
 
 
-프로젝트별 사용 통계
-------
+## 프로젝트별 사용 통계
+
 왼쪽 상단에서 프로젝트 리스트중 프로젝트를 선택시, 
 
 프로젝트별 사용량 조회가 가능합니다. (수정 필요 - 이미지 추가)
 
   
 
-일별 사용 통계
-------------
+## 일별 사용 통계
+
 선택된 달의 일자를 기준으로 라벨링, 배포, 학습, 데이터셋 사용량을 볼 수 있습니다. 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/usage_statistics/organization_statistics_2.png)  
@@ -29,8 +29,8 @@
 
 
 
-누적 사용 통계
-------
+## 누적 사용 통계
+
 
 오른쪽 상단 누적 버튼을 클릭시, 
 

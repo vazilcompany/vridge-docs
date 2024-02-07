@@ -4,8 +4,7 @@
 
 
   
-조직 정보 전체 화면
--------
+## 조직 정보 전체 화면
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_2.png)  
 
@@ -13,8 +12,7 @@
 
  
 
-조직 멤버 목록
---------
+## 조직 멤버 목록
 
 
 현재 조직의 구성원 목록을 보여줍니다.
@@ -29,8 +27,7 @@
 
 
 
-전체 사용 용량 
-------
+## 전체 사용 용량 
 
 조직 전체의 사용 용량 요약 정보입니다.  
 
@@ -44,8 +41,7 @@
 
 
 
-프로젝트, 데이터셋, 모델 요약 정보 
--------
+## 프로젝트, 데이터셋, 모델 요약 정보 
 
 프로젝트 수, 데이터셋 파일 수, 모델 개수를 요약해서 보여줍니다. 
 
@@ -55,8 +51,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_6.png)  
 
 
-학습 기록 
-------
+## 학습 기록 
 
 조직의 최근 학습 기록을 보여줍니다. 
 
@@ -66,8 +61,7 @@
 
 
 
-배포 기록
-------
+## 배포 기록
 
 조직의 배포 기록을 보여줍니다. 
 

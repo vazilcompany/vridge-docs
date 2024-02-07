@@ -8,8 +8,7 @@
 
   
 
-조직 멤버 검색
---------
+## 조직 멤버 검색
 
 
 멤버의 이름으로 검색할 수 있습니다.
@@ -20,8 +19,7 @@
 
   
 
-조직 멤버 추가
---------
+## 조직 멤버 추가
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/member_management_03.png)  
@@ -37,8 +35,7 @@
 
   
 
-멤버 등급 변경
---------
+## 멤버 등급 변경
 
 
 현재 조직에서 '관리자' 등급인 사용자는 다른 사용자의 등급을 변경할 수 있습니다.
@@ -61,8 +58,7 @@
 
   
 
-멤버 삭제
------
+## 멤버 삭제
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/member_management/member_management_3.png)  

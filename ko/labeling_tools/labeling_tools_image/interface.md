@@ -2,8 +2,7 @@
 
   
 
-화면 구성
------
+## 화면 구성
 
 
 라벨링 공간은 상단의 작업 상태 바, 왼쪽의 작업 도구 바, 오른쪽의 작업 테이블 그리고 메인 작업 공간으로 구성됩니다.
@@ -11,8 +10,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/image/interface_explanation/interface_explanation_index.png)  
 
   
-작업 상태 바
------
+## 작업 상태 바
 
 라벨링 공간의 상단 작업 상태 바를 통해, 전체 라벨링 현황, 프로젝트 이름, 현재 이미지 파일 이름 등을 알 수 있습니다. 
 
@@ -32,8 +30,7 @@
 
   
 
-작업 도구 바
--------
+## 작업 도구 바
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/image/interface_explanation/interface_9_labeling_tool_bar.png)  
@@ -316,8 +313,8 @@
 
 
 
-자동 라벨링 
-------
+## 자동 라벨링 
+
 
 어시스트 AI를 설정하고 활성화한 후에는 ‘자동 라벨링’ 기능을 사용할 수 있습니다. 
 
@@ -343,8 +340,7 @@
 
 
 
-작업 테이블
-------
+## 작업 테이블
 
 ### 상세 정보
 

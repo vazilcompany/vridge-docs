@@ -21,8 +21,7 @@
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_2_0.png)  
 
 
-실험실
-------
+## 실험실
 
 실험실에 대해 설명드리겠습니다.
 
@@ -40,8 +39,7 @@
 
 
 
-모델 배포
-------
+## 모델 배포
 
 실험실 우측의 '설정'에 대해 설명하겠습니다. 
 
@@ -94,8 +92,7 @@
 
   
 
-이미지 선택
-------
+## 이미지 선택
 
 
 '추론' 탭에서 우측의 이미지 추가 버튼을 누릅니다.
@@ -110,8 +107,7 @@
 
   
 
-테스트 실행
-------
+## 테스트 실행
 
 
 실행 버튼을 클릭하면 테스트가 진행됩니다.
@@ -122,8 +118,7 @@
 
   
 
-테스트 결과
-------
+## 테스트 결과
 
 
 ![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/model_test_04.png)  
