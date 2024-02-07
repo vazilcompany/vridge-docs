@@ -5,7 +5,7 @@
 
 ## 문의 서비스 흐름
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/getting_started/quest_and_answer_01.png)  
   
   
   
@@ -13,17 +13,17 @@
 
 왼쪽 내비게이션 바에서 도움 버튼을 클릭하면 문의할 수 있는 채팅 컴포넌트가 열립니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer/quest_and_answer_0_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/getting_started/quest_and_answer/quest_and_answer_0_1.png)  
 
 
 새 문의하기 버튼을 클릭하여 새로운 상담을 연결합니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer/quest_and_answer_1.png)   
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/getting_started/quest_and_answer/quest_and_answer_1.png)   
 
 
 상담에 필요한 기본 정보를 입력한 뒤 담당자가 연결되면 상담을 시작합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/getting_started/quest_and_answer/quest_and_answer_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/getting_started/quest_and_answer/quest_and_answer_2.png)  
 
 
 

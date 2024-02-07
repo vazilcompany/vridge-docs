@@ -1,13 +1,13 @@
 조직 정보는 왼쪽 메뉴바에서 '조직'을 클릭하여 접근 가능합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_1.png)  
 
 
   
 조직 정보 전체 화면
 -------
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_2.png)  
 
 
 
@@ -23,7 +23,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_3.png)  
 
 
 
@@ -34,12 +34,12 @@
 
 조직 전체의 사용 용량 요약 정보입니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_4.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_4.png)  
 
 
 자세히 보가 아이콘을 클릭시, 상세 정보(모델 용량, 데이터셋 용량)을 볼 수 있습니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_5.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_5.png)  
 
 
 
@@ -52,7 +52,7 @@
 바로가기 아이콘 클릭시 각 페이지로 이동합니다. 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_6.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_6.png)  
 
 
 학습 기록 
@@ -62,7 +62,7 @@
 
 학습 이름을 클릭시, 선택된 학습 정보 페이지로 이동합니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_7.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_7.png)  
 
 
 
@@ -75,6 +75,6 @@
 
 각각의 모델 아이디, 포인트 아이디를 클릭시 선택된 모델, 포인트 페이지로 이동할 수 있습니다.  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_info/organization_info_8.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_info/organization_info_8.png)  
 
 

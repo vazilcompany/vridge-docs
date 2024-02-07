@@ -11,7 +11,7 @@
 
 오른쪽 상단의 '웹 포인트 등록' 버튼을 클릭합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_1.png)  
 
   
 
@@ -19,7 +19,7 @@
 
 클라우드 유형 • 지역 • 서버 사양을 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_2.png)  
 
   
 
@@ -37,13 +37,13 @@
 
 생성은 몇 분이 소요될 수 있으며, 'PENDING' 상태에서는 서버를 사용할 수 없습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_3.png)  
 
   
 
 생성이 끝나면 'RUNNING' 상태로 바뀌며, 서버를 사용할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_4.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_4.png)  
   
 
   
@@ -54,10 +54,10 @@
 
 웹 포인트 목록에서 사용하고자 하는 웹포인트를 클릭합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_5.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_5.png)  
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_6.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_6.png)  
 
 
 '서버 시작' 버튼을 누르면 서버가 가동되고,
@@ -66,17 +66,17 @@
 
 '중지' 버튼을 클릭하면, 서버가 중지됩니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_7.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_7.png)
 
 
 시작과 중지 작업은 몇 분이 걸릴 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_7_1.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_7_1.png)
 
 
 '삭제' 버튼을 클릭하면, 삭제 확인 창이 열립니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_8.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_8.png)
 
 
 '삭제' 버튼을 클릭하면, 웹 포인트가 삭제 됩니다. 
@@ -96,7 +96,7 @@
 
 웹 포인트 아이디, 이름 등의 정보를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_9.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_9.png)  
 
   
 
@@ -117,7 +117,7 @@
 *   클래스별 판단율 :
 *   분류별 판단 결과 :
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_10.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_10.png)  
 
   
 
@@ -125,7 +125,7 @@
 
 '배포' 탭에서 해당 웹 포인트를 사용한 배포 기록을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_11.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_11.png)  
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/create_webpoint_12.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/create_webpoint_12.png)  

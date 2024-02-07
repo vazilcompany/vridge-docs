@@ -6,7 +6,7 @@
 
 프로젝트 사이드 메뉴에서 '성장 및 배포 → 엣지 포인트'로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_01.png)  
 
   
 
@@ -18,7 +18,7 @@
 
 아이디는 엣지 포인트 등록 시 자동 생성됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_02.png)  
 
   
 
@@ -32,7 +32,7 @@
 
 '정보' 탭에서 엣지 포인트 아이디, 이름 등의 정보를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_03.png)  
 
   
 
@@ -51,7 +51,7 @@
 
 (이미지 추후 수정하기)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_04.png)  
 
   
 
@@ -59,10 +59,10 @@
 
 '배포' 탭에서 해당 엣지 포인트를 사용한 배포 기록을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_05.png)  
 
   
 
 '로그' 탭에서 해당 엣지 포인트의 로그 기록을 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/edge_points_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/edge_points_06.png)  

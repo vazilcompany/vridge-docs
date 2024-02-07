@@ -10,7 +10,7 @@
 
 학습은 다음과 같은 단계로 진행됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/monitoring_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/monitoring_01.png)  
 
   
 
@@ -31,7 +31,7 @@
 손실, 평균 절대 오차(MAE)의 변화를 그래프로 보여줍니다. 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/monitoring/monitoring.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/monitoring/monitoring.png)  
 
 
 
@@ -42,6 +42,6 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/monitoring/regression_monitoring.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/monitoring/regression_monitoring.png)  
  
 

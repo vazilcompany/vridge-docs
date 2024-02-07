@@ -10,7 +10,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_training_history.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/training_result_move_training_history.png)  
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_model.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/training_result_move_model.png)  
 
 
 
@@ -41,16 +41,16 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_classification.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_result/training_result_classification.png)  
 
   
 
 \*각 세부 평가 항목 공식은 다음과 같습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_05.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_06.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_07.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_08.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_08.png)  
 
   
 
@@ -76,7 +76,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_forecasting2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_result/training_result_forecasting2.png)  
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_result/training_result_regression.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_result/training_result_regression.png)  
 
 
 

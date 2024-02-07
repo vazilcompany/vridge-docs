@@ -10,7 +10,7 @@
 
 학습은 다음과 같은 단계로 진행됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/monitoring_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/monitoring_01.png)  
 
   
 
@@ -28,10 +28,10 @@
 ## Classification 
 학습을 진행하면서 실시간으로 학습 횟수(epoch)에 따른 loss 값과 accuracy 값을 그래프로 표현합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/monitoring/training_monitoring.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/monitoring/training_monitoring.png)  
 
 ## Object Detection 
 학습을 진행하면서 실시간으로 학습 횟수(epoch)에 따른 손실(분류 손실, 위치 추정 손실, 정규화 손실, 총 손실)을 그래프로 표현합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/monitoring/ojbect_detection_monitoring.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/monitoring/ojbect_detection_monitoring.png)  
 

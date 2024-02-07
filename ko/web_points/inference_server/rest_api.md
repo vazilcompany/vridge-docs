@@ -4,7 +4,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/rest_api_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_01.png)  
 
 
 웹 포인트 목록에서 추론에 사용할 서버를 선택합니다.
@@ -13,7 +13,7 @@
 
 '구현' 탭에서 요청 정보, 요청 변수, 요청 결과, 구현 예제를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/rest_api_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_02.png)  
 
 
   
@@ -26,7 +26,7 @@
 
 요청을 보낼 URL과 Method, Header 정보입니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/rest_api_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_03.png)  
 
 
 요청 변수
@@ -37,7 +37,7 @@
 
 요청을 보낼 때 필요한 변수 목록입니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/rest_api_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_04.png)  
 
 
   
@@ -50,7 +50,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/rest_api_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/rest_api_05.png)  
 
 
   

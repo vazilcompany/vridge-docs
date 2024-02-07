@@ -4,7 +4,7 @@
 
 \*조직의 관리자 이상의 등급만 가능한 메뉴
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_setting/organization_setting_1.png)  
 
 
   
@@ -16,13 +16,13 @@
 
 조직 이름, 조직 대표 이미지등을 변경할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_2.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_setting/organization_setting_2.png)  
 
   
 
 변경할 조직 이름을 입력하고 '저장' 버튼을 눌러 새로운 이름을 등록합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/settings_03.png)  
 
 
   
@@ -35,7 +35,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/settings_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/settings_04.png)  
 
 
   
@@ -52,7 +52,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_6.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_setting/organization_setting_6.png)  
 
 
   
@@ -61,7 +61,7 @@
 
 랜덤 문자를 입력하고 확인 버튼을 클릭하면 조직이 삭제됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/organization_setting/organization_setting_7.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/organization_setting/organization_setting_7.png)  
 
 
 \*조직의 멤버가 남아있거나, 프로젝트가 하나라도 있을 경우 삭제가 되지 않습니다.

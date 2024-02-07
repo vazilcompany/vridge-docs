@@ -10,7 +10,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_01.png)  
 
   
 
@@ -24,15 +24,15 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_02.png)  
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_03.png)  
-
-  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_03.png)  
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_04.png)  
+  
+
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_04.png)  
 
 -> 그래프에 표시할 속성을 선택합니다.
 
@@ -50,11 +50,11 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_05.png)  
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_06.png)  
 
   
 
@@ -74,4 +74,4 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_csv/interface_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_csv/interface_07.png)  

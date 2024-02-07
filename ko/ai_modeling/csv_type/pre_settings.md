@@ -1,7 +1,7 @@
 ## 데이터셋 선택
 학습 시 사용할 데이터 셋을 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_dialog/select_dataset.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_dialog/select_dataset.png)
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_dialog/set_training_config_1.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_dialog/set_training_config_1.png)
 
 ### window 정보 설정 
 
@@ -36,7 +36,7 @@
 이동
 : 입력 창의 시작과 레이블 창의 첫 번째 시간 간격 사이의 시간 간격을 나타냅니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_dialog/set_training_config_window.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_dialog/set_training_config_window.png)
 
 
 
@@ -52,7 +52,7 @@ batch size
 learning rate
 : 손실 함수의 기울기와 관련하여 네트워크의 가중치를 얼마나 조정할지를 결정합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/csv_type/training_dialog/set_hyper_parameter_model_tag.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/csv_type/training_dialog/set_hyper_parameter_model_tag.png)
 
 설정을 다 하면 계속 버튼을 눌러 다음 설정으로 이동합니다.
 
@@ -61,7 +61,7 @@ learning rate
 ## 학습 서버 선택
 학습이 진행될 서버를 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/select_training_server.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/select_training_server.png)
 
 학습 서버 선택후, 계속 버튼을 눌러 다음 설정으로 이동합니다.
 
@@ -72,10 +72,10 @@ learning rate
 학습 시작 전 최종적으로 설정한 내용을 확인하고, 학습 시작 버튼이 활성화되면 클릭합니다.
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/start_training.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/start_training.png)  
 
 
 최종 시작 확인 다이얼로그 창이 뜨면 확인 버튼을 눌러 학습을 시작합니다.
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/check_start_training.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/check_start_training.png)

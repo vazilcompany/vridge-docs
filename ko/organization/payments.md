@@ -1,6 +1,6 @@
 결제 관리 화면은 왼쪽 메뉴바의 '조직 관리 > 결제 관리'를 클릭하여 접근 가능합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/payments_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/payments_01.png)  
 
   
 
@@ -12,7 +12,7 @@
 
 '결제정보 등록'을 클릭해 결제 수단을 등록할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/payments_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/payments_02.png)  
 
   
 
@@ -22,7 +22,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/payments_03.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/payments_03.png)  
 
 총 결제 예상 금액
 ----------
@@ -30,4 +30,4 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/organization/payments_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/organization/payments_04.png)  

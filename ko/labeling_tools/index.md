@@ -8,12 +8,12 @@
 
 첫째, 데이터 관리 페이지에서 오른쪽 상단의 '라벨링' 버튼을 클릭하거나, 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/go_to_labeling_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/go_to_labeling_1.png)  
 
 
 둘째, 데이터 관리 페이지에서 이미지를 오른쪽 클릭하여 나오는 팝업 메뉴에서 '라벨링'을 선택하면 됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_01.png)  
 
 
 
@@ -26,4 +26,4 @@
 
 데이터 자체 혹은 데이터의 특정 부분에 라벨링 작업을 합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/labeling_index.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/labeling_index.png)  

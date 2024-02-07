@@ -9,16 +9,16 @@
 
 첫째, 조직 사이드 메뉴에서 '실험실'을 클릭 후, 이동합니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_3.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_3.png)  
 
 
 둘째, 웹 포인트 목록에서 테스트에 사용할 서버를 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_1.png)  
 
 '실험' 탭에서 '바로 가기' 버튼을 클릭시, 실험실로 이동합니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_2_0.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_2_0.png)  
 
 
 실험실
@@ -36,7 +36,7 @@
 
 모델은 프로젝트 타입별로 구분되어 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_2_1.png) 
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_2_1.png) 
 
 
 
@@ -48,14 +48,14 @@
 
 모델이 배포되어 있는 경우, '변경' 버튼을 클릭하면, 테스트하고자 하는 포인트와 모델을 수정할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_4.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_4.png)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_5.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_5.png)
 
 
 ### 프로젝트 유형
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_6.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_6.png)
 
 
 
@@ -71,12 +71,12 @@
 
 모델은 프로젝트 타입별로 구분되어 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_7.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_7.png)
 
 
 프로젝트 타입을 선택한 뒤, 배포하고자 하는 모델을 선택 후, 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_8.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_8.png)
 
 저장 버튼을 클릭하면, 모델이 배포됩니다. 
 
@@ -84,12 +84,12 @@
 
 '이미지' 프로젝트 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_9.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_9.png)
 
 
 '표 형식' 프로젝트
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_10.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_10.png)
 
 
   
@@ -102,10 +102,10 @@
 
 테스트할 라벨을 선택한 뒤 이미지를 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_11.png)
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_11.png)
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_12.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_12.png)  
 
 
   
@@ -116,7 +116,7 @@
 
 실행 버튼을 클릭하면 테스트가 진행됩니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server_2/model_test/model_test_13.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server_2/model_test/model_test_13.png)  
 
   
 
@@ -126,9 +126,9 @@
 ------
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/model_test_04.png)  
 
 
 버튼을 클릭하여 테스트 결과를 볼 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/web_points/inference_server/model_test_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/web_points/inference_server/model_test_05.png)  

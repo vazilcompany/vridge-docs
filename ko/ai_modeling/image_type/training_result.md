@@ -10,7 +10,7 @@ AI 성장 및 배포 → 학습 → 학습 히스토리 → 학습 상세 정보
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_training_history.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/training_result_move_training_history.png)  
 
 
 
@@ -18,7 +18,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/training_result_move_model.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/training_result_move_model.png)  
 
 
 
@@ -41,16 +41,16 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_04.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_04.png)  
 
   
 
 \*각 세부 평가 항목 공식은 다음과 같습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_05.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_06.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_07.png)  
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_08.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_05.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_06.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_07.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_08.png)  
 
   
 
@@ -63,7 +63,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 행렬의 각 셀을 선택하여 상세한 데이터별 예측 정보를 확인할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result_09.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result_09.png)  
 
 
 ## 객체 감지
@@ -80,7 +80,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_map_PRCurve.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/object_detection_map_PRCurve.png)  
 
 
 ### 결과 항목
@@ -89,7 +89,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 
 [객체감지 평가지표 이해하기 - Precision, Recall, AP, mAP](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_result_item.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/object_detection_result_item.png)  
 
 
 ### 시험 결과
@@ -97,7 +97,7 @@ AI 성장 및 배포 → 모델 → (모델별) 학습 정보 확인 → 학습 
 좌측화면 에서는 labeling한 실제 테스트 데이터를, 우측 화면에서는 예측값을 볼 수 있습니다. 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_result/object_detection_test_result.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_result/object_detection_test_result.png)  
 
 
 

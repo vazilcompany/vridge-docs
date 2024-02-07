@@ -9,12 +9,12 @@ AI 모델을 만들기 위한 데이터 리소스와 라벨 클래스를 관리�
 
 프로젝트 사이드 메뉴에서 'AI 성장 및 배포 → 데이터 관리'로 이동합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/index/dataset_index_0.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/dataset/index/dataset_index_0.png)  
 
 
 데이터 관리 페이지입니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/dataset/index/dataset_index_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/dataset/index/dataset_index_1.png)  
 
 
 

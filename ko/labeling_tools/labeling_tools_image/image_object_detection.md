@@ -5,13 +5,13 @@
 프로젝트 사이드 바에서 '데이터 관리'로 이동 후, '라벨링 작업'을 선택해 라벨링 공간으로 이동합니다. 
 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/go_to_labeling_1.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/go_to_labeling_1.png)  
 
   
 
 작업 테이블에서 작업할 데이터를 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling_tools_image/image_object_detection_02.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling_tools_image/image_object_detection_02.png)  
 
   
 
@@ -21,7 +21,7 @@
 
 라벨링 하고자 하는 영역에 클릭&드래그하여 라벨링 합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/object_detection/labeling_object_detection-ezgif.com-optimize.gif)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/image/object_detection/labeling_object_detection-ezgif.com-optimize.gif)  
 
 따로 저장을 하지 않아도, 자동 저장이 됩니다. 
 
@@ -31,7 +31,7 @@
 
 라벨링 후 나오는 라벨을 내려 라벨을 변경 할 수 있습니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/labeling_tools/labeling/image/object_detection/change_label.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/labeling_tools/labeling/image/object_detection/change_label.png)  
 
 
 

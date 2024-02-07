@@ -2,4 +2,4 @@
 
 엣지 포인트 목록에서 체크박스를 선택하여 삭제할 수 있습니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/edge_points/delete_edge_point_01.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/edge_points/delete_edge_point_01.png)  

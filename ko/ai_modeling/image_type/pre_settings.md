@@ -10,7 +10,7 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/select_dataset.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/select_dataset.png)  
 
   
 
@@ -89,7 +89,7 @@
 3. 모델 태그 설정
    - 모델에 대한 태그를 설정합니다. 
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/set_training_config.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/set_training_config.png)  
   
 
 
@@ -99,7 +99,7 @@
 
 학습이 진행될 서버를 선택합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/select_training_server.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/select_training_server.png)  
 
   
 
@@ -118,10 +118,10 @@
 
   
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/start_training.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/start_training.png)  
 
   
 
 최종 시작 확인 다이얼로그 창이 뜨면 확인 버튼을 눌러 학습을 시작합니다.
 
-![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/guide/img/ai_modeling/image_type/training_dialog/check_start_training.png)  
+![img1](https://raw.githubusercontent.com/vazilcompany/vridge-docs/main/img/ai_modeling/image_type/training_dialog/check_start_training.png)  
